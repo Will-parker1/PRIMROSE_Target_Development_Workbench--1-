@@ -1,0 +1,97 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: primrose
+  namespace: primrose
+  labels:
+    app: primrose
+spec:
+  # A single replica: the backend keeps its graph/review state on one RWO
+  # volume, and the frontend reaches it over localhost in the same Pod, so
+  # this pair cannot be scaled horizontally as-is.
+  replicas: 1
+  selector:
+    matchLabels:
+      app: primrose
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: primrose
+    spec:
+      containers:
+        - name: backend
+          image: primrose-backend:dev
+          imagePullPolicy: Never
+          ports:
+            - name: backend-http
+              containerPort: 8080
+          envFrom:
+            - secretRef:
+                name: primrose-backend-env
+          volumeMounts:
+            - name: data
+              mountPath: /data
+          livenessProbe:
+            httpGet:
+              path: /healthz
+              port: backend-http
+            initialDelaySeconds: 5
+            periodSeconds: 15
+          readinessProbe:
+            httpGet:
+              path: /healthz
+              port: backend-http
+            initialDelaySeconds: 5
+            periodSeconds: 10
+          resources:
+            requests:
+              cpu: 100m
+              memory: 256Mi
+            limits:
+              memory: 1Gi
+
+        - name: frontend
+          image: primrose-frontend:dev
+          imagePullPolicy: Never
+          ports:
+            - name: http
+              containerPort: 3000
+          env:
+            # Loopback only: the frontend's API proxy refuses plain HTTP to
+            # any non-loopback host, so frontend and backend must stay in
+            # the same Pod and talk over 127.0.0.1.
+            - name: PRIMROSE_BACKEND_URL
+              value: http://127.0.0.1:8080
+            - name: PORT
+              value: "3000"
+            - name: PRIMROSE_BACKEND_TOKEN
+              valueFrom:
+                secretKeyRef:
+                  name: primrose-backend-env
+                  key: PRIMROSE_BACKEND_TOKEN
+          livenessProbe:
+            httpGet:
+              path: /workbench/index.html
+              port: http
+            initialDelaySeconds: 5
+            periodSeconds: 15
+          readinessProbe:
+            httpGet:
+              path: /api/health
+              port: http
+            initialDelaySeconds: 5
+            periodSeconds: 10
+            failureThreshold: 6
+          resources:
+            requests:
+              cpu: 100m
+              memory: 256Mi
+            limits:
+              memory: 512Mi
+
+      volumes:
+        - name: data
+          persistentVolumeClaim:
+            claimName: primrose-data

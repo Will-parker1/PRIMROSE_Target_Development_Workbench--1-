@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0031
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Slobozhanmerezha Turbomash JSC
+DATE        : 2024-12-30
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 30267219
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Slobozhanmerezha Turbomash JSC
+REGISTRATION NUMBER : 30267219
+JURISDICTION        : Ukraine
+LEGAL FORM          : JSC
+PRINCIPAL ACTIVITY  : manufacturing
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Yaroslav Lysenko — Chief Executive Officer, appointed 2021-01-23
+  - Liudmyla Yeremenko — Finance Director, appointed 2021-06-22
+  - Larysa Zaporozhets — Member of the Supervisory Board, appointed 2020-06-25
+  - Roman Sirko — Member of the Supervisory Board, appointed 2024-11-11
+
+SHAREHOLDINGS DISCLOSED
+  - Kruhliak Capital JSC holds 100% (from 2019-06-21)

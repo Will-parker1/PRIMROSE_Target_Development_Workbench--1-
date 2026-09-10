@@ -1,0 +1,24 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0046
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Hrushivka Tekhservis JSC
+DATE        : 2024-08-07
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 39103437
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Hrushivka Tekhservis JSC
+REGISTRATION NUMBER : 39103437
+JURISDICTION        : Ukraine
+LEGAL FORM          : JSC
+PRINCIPAL ACTIVITY  : engineering
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Larysa Danylchenko — Chief Executive Officer, appointed 2020-06-09
+  - Yaroslav Kalynychenko — Finance Director, appointed 2020-06-01
+  - Christos Aristidou — Member of the Supervisory Board, appointed 2024-06-20
+
+SHAREHOLDINGS DISCLOSED
+  - Bilokamin Industrial Group PrJSC holds 60% (from 2019-11-29)

@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0206
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Zhovtneve Pole Fibre Exchange
+DATE        : 2025-01-28
+ORIGIN      : Yasnohir Optomerezha PrJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Zhovtneve Pole Fibre Exchange (regional fibre exchange)
+OPERATOR      : Yasnohir Optomerezha PrJSC
+ASSET REF     : Zhovtneve Pole TX
+COMMISSIONED  : 1972
+RATED         : 330 kV
+CRITICALITY   : HIGH
+
+EVENT: control cabinet water ingress recorded at 01:58. Duration 15 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 5 (SCADA platform), serial SCA82619
+
+ATTENDANCE: Vitrohin Enerhobud PrJSC attended under the standing maintenance framework. Secondary support from Karpatvuzol Prombudmontazh SE.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Hrushivske'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Yasnohir Optomerezha

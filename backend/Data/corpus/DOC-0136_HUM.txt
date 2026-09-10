@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0136
+TYPE        : HUMAN SOURCE REPORT
+TITLE       : Field report — Podilkaskad Vantazh Group PJSC
+DATE        : 2024-03-25
+ORIGIN      : Field collection team (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SOURCE GRADE: A2
+REPORT SERIAL: HS/3900
+--------------------------------------------------------------------------------------------
+
+1. (A2) Source assesses Podilkaskad Vantazh Group PJSC has undergone a change in commercial
+posture over the reporting period.
+
+2. (A2) Source has met Larysa Moroz on two occasions. Moroz is described as holding decision
+authority over procurement and as maintaining contact with counterparts outside the group.
+
+3. (D3) Source indicated that beneficial control of PVG rests with interests represented by
+Bilokamin Industrial Group PrJSC, though source could not produce documentation.
+
+4. (A2) Access arrangements at Vitrohin Combined Heat and Power Plant were described as
+dependent on a single contractor pass system. Source has not visited the site personally.
+
+5. (F6) COMMENT: Source reporting on ownership has previously proven partially accurate.
+Treat percentages as indicative only.

@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0059
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Zolotobrid Teploenerho PrJSC
+DATE        : 2025-11-16
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 34128035
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Zolotobrid Teploenerho PrJSC
+REGISTRATION NUMBER : 34128035
+JURISDICTION        : Ukraine
+LEGAL FORM          : PrJSC
+PRINCIPAL ACTIVITY  : generation
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Volodymyr Yeremenko — Chief Executive Officer, appointed 2020-04-10
+  - Andriy Zhuravel — Finance Director, appointed 2023-03-31
+  - Nadiya Kushnir — Member of the Supervisory Board, appointed 2024-09-24
+  - Petro Havryliuk — Member of the Supervisory Board, appointed 2019-06-05
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.

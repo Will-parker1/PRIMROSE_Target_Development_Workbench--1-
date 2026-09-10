@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0211
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Substation 'Kamianyi Mist'
+DATE        : 2025-10-11
+ORIGIN      : Livoberezh Hrid Systems JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Substation 'Kamianyi Mist' (330/110 kV substation)
+OPERATOR      : Livoberezh Hrid Systems JSC
+ASSET REF     : Kamianyi Mist SS
+COMMISSIONED  : 1995
+RATED         : 40 MW
+CRITICALITY   : HIGH
+
+EVENT: loss of auxiliary supply recorded at 07:48. Duration 575 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - TRF-Kestrel-330 (power transformer), serial TRF86018
+  - GT-Aurelia 40MW (gas turbine), serial GT96302
+
+ATTENDANCE: Solomiya Tekhservis SE attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Vilkhove'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, LHS

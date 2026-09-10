@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0189
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Substation 'Mlynivske'
+DATE        : 2025-09-23
+ORIGIN      : Buhrichka Enerhomerezha PrJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Substation 'Mlynivske' (330/110 kV substation)
+OPERATOR      : Buhrichka Enerhomerezha PrJSC
+ASSET REF     : Mlynivske SS
+COMMISSIONED  : 2011
+RATED         : n/a
+CRITICALITY   : MEDIUM
+
+EVENT: busbar differential trip recorded at 08:32. Duration 412 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - GT-Aurelia 40MW (gas turbine), serial GT66527
+  - GT-Aurelia 40MW (gas turbine), serial GT66527
+
+ATTENDANCE: Hrushivka Tekhservis PrJSC attended under the standing maintenance framework. Secondary support from Vitrohin Enerhobud PrJSC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Ternova Balka'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Buhrichka Enerhomerezha PrJSC

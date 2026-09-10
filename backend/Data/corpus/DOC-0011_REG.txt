@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0011
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Calder Vantage S.a r.l.
+DATE        : 2026-03-24
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 32507435
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Calder Vantage S.a r.l.
+REGISTRATION NUMBER : 32507435
+JURISDICTION        : Luxembourg
+LEGAL FORM          : r.l.
+PRINCIPAL ACTIVITY  : holding
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.
+
+PARTICIPATIONS HELD
+  - 100% of Palewater Assets Ltd

@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0015
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Terravent Nominees Ltd
+DATE        : 2025-10-21
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 30544616
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Terravent Nominees Ltd
+REGISTRATION NUMBER : 30544616
+JURISDICTION        : Malta
+LEGAL FORM          : Ltd
+PRINCIPAL ACTIVITY  : holding
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.
+
+PARTICIPATIONS HELD
+  - 100% of Sarnovo Trade AG
+  - 100% of Kalynivskyi Enerho-Bud LLC

@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0232
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Substation 'Zorianske'
+DATE        : 2025-01-21
+ORIGIN      : Livoberezh Hrid Systems JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Substation 'Zorianske' (330/110 kV substation)
+OPERATOR      : Livoberezh Hrid Systems JSC
+ASSET REF     : Zorianske SS
+COMMISSIONED  : 1977
+RATED         : 330 kV
+CRITICALITY   : MEDIUM
+
+EVENT: unplanned pump trip on low suction pressure recorded at 00:56. Duration 38 minutes. No load lost.
+
+AFFECTED PLANT:
+  - TRF-Kestrel-330 (power transformer), serial TRF53224
+
+ATTENDANCE: Bilokamin Tekhservis SE attended under the standing maintenance framework. Secondary support from Kalynivsky Enerhobud LLC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Nadberezhne'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, LHS

@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0203
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Suhoklen Pumping Station
+DATE        : 2024-08-31
+ORIGIN      : Kalynivsky Vodokanal-Servis PJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Suhoklen Pumping Station (district water pumping station)
+OPERATOR      : Kalynivsky Vodokanal-Servis PJSC
+ASSET REF     : Suhoklen PS
+COMMISSIONED  : 2005
+RATED         : 8 000 m3/day
+CRITICALITY   : MEDIUM
+
+EVENT: protection relay maloperation recorded at 05:19. Duration 150 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - GT-Aurelia 40MW (gas turbine), serial GT72853
+  - SCADA Halcyon 7 (SCADA platform), serial SCA23836
+
+ATTENDANCE: Solomiya Tekhservis SE attended under the standing maintenance framework. Secondary support from Hrushivka Tekhservis JSC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Verbivske'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Kalynivsky Vodokanal-Servis

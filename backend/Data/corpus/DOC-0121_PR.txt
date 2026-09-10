@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0121
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Zolotobrid Teploenerho PrJSC announces network modernisation
+DATE        : 2024-02-18
+ORIGIN      : Zolotobrid Teploenerho PrJSC corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Zolotobrid Teploenerho PrJSC today announced a programme of network modernisation across its
+regional portfolio.
+
+The programme covers Struminka Combined Heat and Power Plant, Sichove Hydroelectric Plant,
+with works scheduled in phases through the coming year.
+
+"Our regional teams have carried an unusual load," said Volodymyr Yeremenko, Chief Executive
+Officer of Zolotobrid Teploenerho.
+
+Media enquiries: press office, Zolotobrid Teploenerho PrJSC.

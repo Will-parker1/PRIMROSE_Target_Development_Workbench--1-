@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0239
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Bilianske Combined Heat and Power Plant
+DATE        : 2024-10-09
+ORIGIN      : Vitrohin Kaskad Power JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Bilianske Combined Heat and Power Plant (combined heat and power plant)
+OPERATOR      : Vitrohin Kaskad Power JSC
+ASSET REF     : Bilianske CHP
+COMMISSIONED  : 1976
+RATED         : 18 MW
+CRITICALITY   : HIGH
+
+EVENT: control cabinet water ingress recorded at 01:45. Duration 653 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - TRF-Kestrel-330 (power transformer), serial TRF67466
+  - GT-Aurelia 40MW (gas turbine), serial GT50998
+
+ATTENDANCE: Solomiya Tekhservis SE attended under the standing maintenance framework. Secondary support from Vyshnevyi Tekhservis SE.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Kamianyi Mist'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, VKP

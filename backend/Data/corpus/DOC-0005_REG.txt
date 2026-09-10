@@ -1,0 +1,22 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0005
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Basalt Industrial Controls
+DATE        : 2025-07-24
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 37477189
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Basalt Industrial Controls
+REGISTRATION NUMBER : 37477189
+JURISDICTION        : Switzerland
+LEGAL FORM          : Controls
+PRINCIPAL ACTIVITY  : manufacturing
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.

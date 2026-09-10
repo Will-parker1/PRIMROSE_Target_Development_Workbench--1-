@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0183
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — industry mailing list
+DATE        : 2025-01-01
+ORIGIN      : Open sources (industry mailing list)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] Vira Kovalenko spoke at the regional forum, mostly boilerplate about resilience
+
+[post 2] congrats to Ruslan Sirko on the new role, well deserved
+
+[post 3] anyone know why Zhovtneve Pole Fibre Exchange was dark most of tuesday? third time this month

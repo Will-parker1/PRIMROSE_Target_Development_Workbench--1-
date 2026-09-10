@@ -1,0 +1,14 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0070
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Regional infrastructure: Slobozhanmerezha in focus
+DATE        : 2023-07-15
+ORIGIN      : Energy Herald Weekly
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Slobozhanmerezha Turbomash JSC,
+displacing the previous incumbent. Zolotyi Brid Combined Heat and Power Plant is understood
+to be covered under the same multi-year framework. Chief executive Yaroslav Lysenko
+described the arrangement as consistent with the group's stated regional strategy. ST sits
+within the Kruhliak Capital JSC structure, according to corporate filings.

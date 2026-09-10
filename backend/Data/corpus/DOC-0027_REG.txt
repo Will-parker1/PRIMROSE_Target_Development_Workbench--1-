@@ -1,0 +1,24 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0027
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Vyshnevyi Tekhservis SE
+DATE        : 2025-02-07
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 35050751
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Vyshnevyi Tekhservis SE
+REGISTRATION NUMBER : 35050751
+JURISDICTION        : Ukraine
+LEGAL FORM          : SE
+PRINCIPAL ACTIVITY  : engineering
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Mykola Ostapchuk — Chief Executive Officer, appointed 2020-12-14
+  - Stepan Panasiuk — Member of the Supervisory Board, appointed 2019-07-09
+  - Yaroslav Tkachuk — Member of the Supervisory Board, appointed 2024-10-17
+
+SHAREHOLDINGS DISCLOSED
+  - Kruhliak Capital JSC holds 100% (from 2021-06-26)

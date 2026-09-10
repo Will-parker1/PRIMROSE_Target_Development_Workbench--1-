@@ -1,0 +1,22 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0115
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Podilkaskad Vantazh Group PJSC announces resilience investment
+DATE        : 2024-05-07
+ORIGIN      : Podilkaskad Vantazh Group PJSC corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Podilkaskad Vantazh Group PJSC today announced a programme of resilience investment across
+its regional portfolio.
+
+The programme covers Vitrohin Combined Heat and Power Plant, Rusaniv Water Treatment Works,
+Malynivske Fibre Exchange. Commissioning dates have not been published.
+
+"Our regional teams have carried an unusual load," said Larysa Moroz, Chief Executive
+Officer of Podilkaskad Vantazh Group.
+
+Equipment will be sourced through Slobozhanmerezha Turbomash JSC under existing framework
+terms.
+
+Media enquiries: press office, Podilkaskad Vantazh Group.

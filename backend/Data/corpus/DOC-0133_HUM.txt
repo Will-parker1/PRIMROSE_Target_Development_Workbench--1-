@@ -1,0 +1,23 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0133
+TYPE        : HUMAN SOURCE REPORT
+TITLE       : Field report — Vitrohin Enerhobud PrJSC
+DATE        : 2025-07-16
+ORIGIN      : Field collection team (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SOURCE GRADE: A2
+REPORT SERIAL: HS/6756
+--------------------------------------------------------------------------------------------
+
+1. (A2) Uncorroborated reporting suggests Vitrohin Enerhobud PrJSC has undergone a change in
+commercial posture over the reporting period.
+
+2. (A2) Source has met Vasyl Marchenko on two occasions. Vasyl Marchenko is described as
+holding decision authority over procurement and as maintaining contact with counterparts
+outside the group.
+
+4. (A2) Access arrangements at Substation 'Mlynivske' were described as tightened since the
+last quarter. Source has not visited the site personally.
+
+4. (F6) COMMENT: Source reporting on ownership has previously proven partially accurate.
+Treat percentages as indicative only.

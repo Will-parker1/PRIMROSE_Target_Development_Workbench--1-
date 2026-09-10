@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0177
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — industry mailing list
+DATE        : 2024-05-30
+ORIGIN      : Open sources (industry mailing list)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] Yuriy Levchenko spoke at the regional forum, mostly boilerplate about resilience
+
+[post 2] anyone know why Substation 'Dubove' was dark most of tuesday? third time this month
+
+[post 3] Artem Havryliuk spoke at the regional forum, mostly boilerplate about resilience

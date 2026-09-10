@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0204
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Sadovyi Yar Marshalling Yard
+DATE        : 2024-03-30
+ORIGIN      : Vitrohin Lohistyka SE asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Sadovyi Yar Marshalling Yard (rail freight marshalling yard)
+OPERATOR      : Vitrohin Lohistyka SE
+ASSET REF     : Sadovyi Yar RJ
+COMMISSIONED  : 1968
+RATED         : 110 kV
+CRITICALITY   : MEDIUM
+
+EVENT: transformer cooling fan failure recorded at 11:41. Duration 53 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 7 (SCADA platform), serial SCA70991
+
+ATTENDANCE: Sadovyi Yar Prombudmontazh PJSC attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Verbivske'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Vitrohin Lohistyka SE

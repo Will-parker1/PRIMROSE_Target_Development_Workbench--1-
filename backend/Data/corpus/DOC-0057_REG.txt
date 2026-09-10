@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0057
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Verkhovyna Hazotransport LLC
+DATE        : 2024-02-13
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 35896222
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Verkhovyna Hazotransport LLC
+REGISTRATION NUMBER : 35896222
+JURISDICTION        : Ukraine
+LEGAL FORM          : LLC
+PRINCIPAL ACTIVITY  : gas
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Petro Pylypenko — Chief Executive Officer, appointed 2019-06-20
+  - Anzhelika Levchenko — Member of the Supervisory Board, appointed 2020-10-26
+  - Roman Didenko — Member of the Supervisory Board, appointed 2023-05-19
+  - Vira Pylypenko — Member of the Supervisory Board, appointed 2020-09-18
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.

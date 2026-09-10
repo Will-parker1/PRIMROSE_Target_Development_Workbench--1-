@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0153
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Pivdenhrebl Aquaresurs SE / Hrushivka Tekhservis JSC
+DATE        : 2025-03-19
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/89313
+--------------------------------------------------------------------------------------------
+
+// 2025-03-19T0515Z //
+
+CORRELATED TRAFFIC: Pivdenhrebl Aquaresurs SE <-> Hrushivka Tekhservis JSC
+
+Volume: 43 sessions over 2 days.
+
+Two references to an unnamed third party described only as 'the holding'. Identity not established.
+
+Selector attributed with MODERATE confidence to Ruslan Savchuk. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

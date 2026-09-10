@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0265
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Vyshnevyi Tekhservis SE
+DATE        : 2024-10-07
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2025/2442
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Vitrohin Kaskad Power JSC
+AWARDED SUPPLIER      : Vyshnevyi Tekhservis SE
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 5,000,000
+PROCEDURE             : open tender
+COMMENCEMENT          : 2021-02-13
+SITE                  : Trypilske Combined Heat and Power Plant
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Trypilske Combined Heat and Power Plant, Bereznyi Hydroelectric Plant, Zorepad Gas Compressor Station, Substation 'Vilkhove'.

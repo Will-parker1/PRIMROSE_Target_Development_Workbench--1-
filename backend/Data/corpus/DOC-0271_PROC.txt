@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0271
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Zoriansky Kabelprom PJSC
+DATE        : 2023-07-04
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2023/3737
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Livoberezh Hrid Systems JSC
+AWARDED SUPPLIER      : Zoriansky Kabelprom PJSC
+SUBJECT               : spare transformer cores
+VALUE                 : UAH 83,000,000
+PROCEDURE             : restricted procedure
+COMMENCEMENT          : 2022-02-08
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Substation 'Shchedryn', Sosnove Gas Compressor Station, Yavorivske Marshalling Yard, Substation 'Nadberezhne'.

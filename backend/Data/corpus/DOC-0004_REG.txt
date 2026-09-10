@@ -1,0 +1,22 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0004
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Aurelia Turbomachinery SpA
+DATE        : 2024-10-05
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 30161233
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Aurelia Turbomachinery SpA
+REGISTRATION NUMBER : 30161233
+JURISDICTION        : Switzerland
+LEGAL FORM          : SpA
+PRINCIPAL ACTIVITY  : manufacturing
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.

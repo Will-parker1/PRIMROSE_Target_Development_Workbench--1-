@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0163
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Vyshnevyi Tekhservis SE / Solomiya Tekhservis SE
+DATE        : 2024-03-15
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/17695
+--------------------------------------------------------------------------------------------
+
+// 2024-03-15T1315Z //
+
+CORRELATED TRAFFIC: Vyshnevyi Tekhservis SE <-> Solomiya Tekhservis SE
+
+Volume: 71 sessions over 18 days.
+
+Metadata only. Pattern consistent with a routine commercial relationship between VT and Solomiya Tekhservis SE.
+
+Selector attributed with MODERATE confidence to Mykola Ostapchuk. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

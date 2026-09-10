@@ -1,0 +1,16 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0310
+TYPE        : LEGAL / REGULATORY NOTICE
+TITLE       : Registry advisory — similar entity names
+DATE        : 2025-06-03
+ORIGIN      : Commercial court register (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CASE REF    : CC/2025/417
+--------------------------------------------------------------------------------------------
+
+The registrar has issued an advisory following repeated misfiling between two entities with
+closely similar names. Kalynivsky Enerhobud LLC (EDRPOU 38104772) is an active engineering
+contractor holding maintenance frameworks at three sites. Kalynivskyi Enerho-Bud LLC (EDRPOU
+41556903) has filed no accounts since incorporation and is wholly owned by Terravent
+Nominees Ltd. The two are unconnected. Correspondence intended for Kalynivsky Enerhobud has
+on at least four occasions been served on Kalynivskyi Enerho-Bud.

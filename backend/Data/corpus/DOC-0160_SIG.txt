@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0160
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Kruhliak Enerhoheneratsiya JSC / Hrushivka Tekhservis PrJSC
+DATE        : 2024-09-02
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/51413
+--------------------------------------------------------------------------------------------
+
+// 2024-09-02T1318Z //
+
+CORRELATED TRAFFIC: Kruhliak Enerhoheneratsiya JSC <-> Hrushivka Tekhservis PrJSC
+
+Volume: 73 sessions over 17 days.
+
+Partial content recovered. Discussion of scheduling and delivery windows referencing KE. No technical detail recovered.
+
+Selector attributed with MODERATE confidence to Serhiy Yeremenko. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

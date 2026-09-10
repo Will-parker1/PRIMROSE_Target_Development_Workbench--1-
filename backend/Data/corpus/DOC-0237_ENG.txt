@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0237
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Sokolyne Combined Heat and Power Plant
+DATE        : 2024-10-23
+ORIGIN      : Ostrivets Kaskad Power JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Sokolyne Combined Heat and Power Plant (combined heat and power plant)
+OPERATOR      : Ostrivets Kaskad Power JSC
+ASSET REF     : Sokolyne CHP
+COMMISSIONED  : 1982
+RATED         : 22 000 m3/day
+CRITICALITY   : MEDIUM
+
+EVENT: busbar differential trip recorded at 00:22. Duration 118 minutes. No load lost.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 5 (SCADA platform), serial SCA93605
+
+ATTENDANCE: Vyshnevyi Tekhservis SE attended under the standing maintenance framework. Secondary support from Podilkaskad Vantazh Group PJSC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Lypove'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Ostrivets Kaskad Power JSC

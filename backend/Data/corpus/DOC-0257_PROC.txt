@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0257
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Rusanivka Transservice SE
+DATE        : 2023-04-04
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2023/8507
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Sivershyna Kompresorservis JSC
+AWARDED SUPPLIER      : Rusanivka Transservice SE
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 194,000,000
+PROCEDURE             : open tender
+COMMENCEMENT          : 2023-11-19
+SITE                  : Zaluzhne Gas Compressor Station
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Zaluzhne Gas Compressor Station, Terenivske Transformer Depot, Substation 'Rakytne', Bilokamin Gas Compressor Station.

@@ -1,0 +1,12 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0069
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Questions over Palewater arrangement
+DATE        : 2025-08-11
+ORIGIN      : Infrastructure Monitor
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Calder Vantage S.a r.l. has confirmed that it holds a 100% interest in Palewater Assets Ltd,
+a position the company says it built up over the preceding eighteen months. Analysts had
+previously assumed a smaller holding.

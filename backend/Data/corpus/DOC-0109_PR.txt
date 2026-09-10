@@ -1,0 +1,23 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0109
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Ostrivets Kaskad Power JSC announces supply agreement
+DATE        : 2025-07-11
+ORIGIN      : Ostrivets Kaskad Power JSC corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Ostrivets Kaskad Power JSC today announced a programme of supply agreement across its
+regional portfolio.
+
+The programme covers Verkhovynske Combined Heat and Power Plant, Pryberezhne Combined Heat
+and Power Plant, Vovche Combined Heat and Power Plant. Commissioning dates have not been
+published.
+
+"This is about reducing single points of failure," said Serhiy Boyko, Chief Executive
+Officer of Ostrivets Kaskad Power.
+
+Equipment will be sourced through Livoberezh Kolii-Prom PrJSC under existing framework
+terms.
+
+Media enquiries: press office, OKP.

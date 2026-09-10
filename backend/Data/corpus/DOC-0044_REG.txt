@@ -1,0 +1,23 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0044
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Verkhovyna Teploenerho PJSC
+DATE        : 2024-08-07
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 32143880
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Verkhovyna Teploenerho PJSC
+REGISTRATION NUMBER : 32143880
+JURISDICTION        : Ukraine
+LEGAL FORM          : PJSC
+PRINCIPAL ACTIVITY  : generation
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Volodymyr Kravets — Chief Executive Officer, appointed 2019-06-23
+  - Sofiia Melnyk — Member of the Supervisory Board, appointed 2020-02-04
+
+SHAREHOLDINGS DISCLOSED
+  - Bilokamin Industrial Group PrJSC holds 60% (from 2020-03-08)

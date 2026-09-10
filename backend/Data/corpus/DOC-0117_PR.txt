@@ -1,0 +1,22 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0117
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Zolotobrid Aquaresurs SE announces supply agreement
+DATE        : 2024-04-29
+ORIGIN      : Zolotobrid Aquaresurs SE corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Zolotobrid Aquaresurs SE today announced a programme of supply agreement across its regional
+portfolio.
+
+The programme covers Rusaniv Water Treatment Works, Kaminne Pumping Station, with works
+scheduled in phases through the coming year.
+
+"Continuity of supply is the measure that matters," said Anzhelika Zhuravel, Chief Executive
+Officer of ZA.
+
+Equipment will be sourced through Karpatvuzol Turbomash PrJSC under existing framework
+terms.
+
+Media enquiries: press office, ZA.

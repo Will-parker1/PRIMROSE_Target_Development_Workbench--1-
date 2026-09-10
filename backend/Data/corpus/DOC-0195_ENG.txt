@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0195
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Verkhovynske Combined Heat and Power Plant
+DATE        : 2026-01-25
+ORIGIN      : Ostrivets Kaskad Power JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Verkhovynske Combined Heat and Power Plant (combined heat and power plant)
+OPERATOR      : Ostrivets Kaskad Power JSC
+ASSET REF     : Verkhovynske CHP
+COMMISSIONED  : 1973
+RATED         : n/a
+CRITICALITY   : MEDIUM
+
+EVENT: SCADA telemetry dropout recorded at 02:15. Duration 880 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 7 (SCADA platform), serial SCA56067
+
+ATTENDANCE: Vitrohin Lohistyka SE attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Dubove'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Ostrivets Kaskad Power

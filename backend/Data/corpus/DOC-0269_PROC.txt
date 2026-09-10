@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0269
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Karpatvuzol Turbomash PrJSC
+DATE        : 2023-01-04
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2023/6739
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Zolotobrid Aquaresurs SE
+AWARDED SUPPLIER      : Karpatvuzol Turbomash PrJSC
+SUBJECT               : pipeline compressor blades
+VALUE                 : UAH 55,000,000
+PROCEDURE             : restricted procedure
+COMMENCEMENT          : 2026-02-13
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Substation 'Lypove', Substation 'Hrushivske', Kryva Balka Data Centre, Terenivske Transformer Depot.

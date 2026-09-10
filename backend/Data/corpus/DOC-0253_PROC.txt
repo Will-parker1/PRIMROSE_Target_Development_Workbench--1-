@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0253
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Karpatvuzol Prombudmontazh SE
+DATE        : 2026-03-17
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2024/8833
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Sivershyna Kompresorservis JSC
+AWARDED SUPPLIER      : Karpatvuzol Prombudmontazh SE
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 165,000,000
+PROCEDURE             : negotiated without prior publication (sole source)
+COMMENCEMENT          : 2024-01-15
+SITE                  : Zaluzhne Gas Compressor Station
+
+NOTES
+  - Justification recorded as technical exclusivity. No alternative supplier was assessed as capable of delivering within the required timeframe.
+  - The supplier holds concurrent frameworks covering: Livoberezhne Water Treatment Works, Solomiyivske Pumping Station, Ostrivets Transformer Depot, Substation 'Nadberezhne'.

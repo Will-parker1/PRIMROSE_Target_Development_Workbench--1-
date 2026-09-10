@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0263
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Karpatvuzol Prombudmontazh SE
+DATE        : 2024-07-10
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2025/6417
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Verkhovyna Hazotransport LLC
+AWARDED SUPPLIER      : Karpatvuzol Prombudmontazh SE
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 38,000,000
+PROCEDURE             : framework call-off
+COMMENCEMENT          : 2024-12-19
+SITE                  : Sivachivske Gas Compressor Station
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Livoberezhne Water Treatment Works, Solomiyivske Pumping Station, Ostrivets Transformer Depot, Substation 'Nadberezhne'.

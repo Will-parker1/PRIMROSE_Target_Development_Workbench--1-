@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0272
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Vyshnevyi Tekhservis SE
+DATE        : 2025-07-16
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2025/2828
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Skhidkontur Enerhoheneratsiya SE
+AWARDED SUPPLIER      : Vyshnevyi Tekhservis SE
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 204,000,000
+PROCEDURE             : open tender
+COMMENCEMENT          : 2024-03-15
+SITE                  : Vyshneve Hydroelectric Plant
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Trypilske Combined Heat and Power Plant, Bereznyi Hydroelectric Plant, Zorepad Gas Compressor Station, Substation 'Vilkhove'.

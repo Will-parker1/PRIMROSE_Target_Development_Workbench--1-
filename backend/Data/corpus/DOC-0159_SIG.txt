@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0159
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Podilkaskad Vantazh Group PJSC / Sadovyi Yar Prombudmontazh PJSC
+DATE        : 2024-03-09
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/67251
+--------------------------------------------------------------------------------------------
+
+// 2024-03-09T0127Z //
+
+CORRELATED TRAFFIC: Podilkaskad Vantazh Group PJSC <-> Sadovyi Yar Prombudmontazh PJSC
+
+Volume: 48 sessions over 2 days.
+
+Two references to an unnamed third party described only as 'the holding'. Identity not established.
+
+Selector attributed with MODERATE confidence to Larysa Moroz. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

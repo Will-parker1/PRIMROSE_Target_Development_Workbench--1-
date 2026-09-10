@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0024
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Rusanivka Transservice SE
+DATE        : 2024-08-02
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 39362019
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Rusanivka Transservice SE
+REGISTRATION NUMBER : 39362019
+JURISDICTION        : Ukraine
+LEGAL FORM          : SE
+PRINCIPAL ACTIVITY  : logistics
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Svitlana Hrytsenko — Chief Executive Officer, appointed 2021-09-02
+  - Denys Oliynyk — Finance Director, appointed 2024-04-15
+  - Bohdan Lysenko — Member of the Supervisory Board, appointed 2023-08-15
+  - Marika Louca — Member of the Supervisory Board, appointed 2024-07-20
+  - Vasyl Kalynychenko — Member of the Supervisory Board, appointed 2024-04-08
+
+SHAREHOLDINGS DISCLOSED
+  - Verkhovyna Industrial Group PJSC holds 100% (from 2021-04-06)

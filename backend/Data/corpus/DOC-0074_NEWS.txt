@@ -1,0 +1,14 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0074
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Hrushivka deal draws attention in regional utilities
+DATE        : 2023-07-12
+ORIGIN      : Dnipro Business Review
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Hrushivka Tekhservis JSC, displacing
+the previous incumbent. Solomiyivske Pumping Station is understood to be covered under the
+same multi-year framework. Larysa Danylchenko, who has led the company since 2020-06-09,
+declined to give a figure for the transaction. The company's assets include Ostrivets
+Transformer Depot in Kharkivska oblast.

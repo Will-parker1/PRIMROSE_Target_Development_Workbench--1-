@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0252
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Podilkaskad Vantazh Group PJSC
+DATE        : 2024-10-03
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2023/5703
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Yasnohir Optomerezha PrJSC
+AWARDED SUPPLIER      : Podilkaskad Vantazh Group PJSC
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 204,000,000
+PROCEDURE             : restricted procedure
+COMMENCEMENT          : 2024-11-03
+SITE                  : Malynivske Fibre Exchange
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Vitrohin Combined Heat and Power Plant, Rusaniv Water Treatment Works, Malynivske Fibre Exchange, Zhuravlyne Water Treatment Works.

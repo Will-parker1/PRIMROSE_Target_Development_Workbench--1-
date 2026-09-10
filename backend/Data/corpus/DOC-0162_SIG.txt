@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0162
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Livoberezh Kolii-Prom PrJSC / Vitrohin Enerhobud PrJSC
+DATE        : 2025-03-09
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/83000
+--------------------------------------------------------------------------------------------
+
+// 2025-03-09T1349Z //
+
+CORRELATED TRAFFIC: Livoberezh Kolii-Prom PrJSC <-> Vitrohin Enerhobud PrJSC
+
+Volume: 36 sessions over 19 days.
+
+Two references to an unnamed third party described only as 'the holding'. Identity not established.
+
+Selector attributed with MODERATE confidence to Roman Levchenko. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

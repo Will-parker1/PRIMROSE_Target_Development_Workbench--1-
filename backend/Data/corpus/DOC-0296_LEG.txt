@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0296
+TYPE        : LEGAL / REGULATORY NOTICE
+TITLE       : Insolvency Petition — Zaliznyi Kliuch Hrid Systems PrJSC
+DATE        : 2024-05-06
+ORIGIN      : Commercial court register (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CASE REF    : CC/2024/931
+--------------------------------------------------------------------------------------------
+
+IN THE MATTER OF Zaliznyi Kliuch Hrid Systems PrJSC — INSOLVENCY PETITION.
+
+The claimant, Dniprovenko Optomerezha JSC, alleges non-performance of obligations arising
+under a framework agreement dated 2021-10-29. Quantum is pleaded at UAH 314 million.
+
+The respondent is represented by its officers, including Vira Didenko. The tribunal noted
+that questions of ultimate control remain unresolved on the papers before it.
+
+DIRECTIONS: the respondent shall file a defence within 28 days. Costs reserved.

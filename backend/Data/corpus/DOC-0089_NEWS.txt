@@ -1,0 +1,14 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0089
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Slobozhanmerezha deal draws attention in regional utilities
+DATE        : 2025-10-31
+ORIGIN      : Dnipro Business Review
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Slobozhanmerezha Turbomash JSC,
+displacing the previous incumbent. Vovche Combined Heat and Power Plant is understood to be
+covered under the same multi-year framework. Chief executive Yaroslav Lysenko described the
+arrangement as consistent with the group's stated regional strategy. The company's assets
+include Zhytnye Hydroelectric Plant in Rivnenska oblast.

@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0099
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Questions over Skhidkontur arrangement
+DATE        : 2024-10-03
+ORIGIN      : Grid & Pipeline Digest
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Bilokamin Tekhservis SE will continue to supply steel lattice pylon sections to Skhidkontur
+Enerhoheneratsiya SE under a framework agreement renewed this quarter. The arrangement dates
+back several years. Chief executive Artem Shevchuk described the arrangement as consistent
+with the group's stated regional strategy. Bilokamin Tekhservis SE sits within the Kruhliak
+Capital JSC structure, according to corporate filings. The company's assets include
+Kliuchove Transformer Depot in Vinnytska oblast.

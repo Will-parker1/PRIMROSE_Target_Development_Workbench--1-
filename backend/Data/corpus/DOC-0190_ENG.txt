@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0190
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Substation 'Ternova Balka'
+DATE        : 2024-06-02
+ORIGIN      : Vitrohin Enerhomerezha JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Substation 'Ternova Balka' (330/110 kV substation)
+OPERATOR      : Vitrohin Enerhomerezha JSC
+ASSET REF     : Ternova Balka SS
+COMMISSIONED  : 1994
+RATED         : 40 MW
+CRITICALITY   : MEDIUM
+
+EVENT: control cabinet water ingress recorded at 04:47. Duration 862 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - Relay-Vireo 9 (protection relay), serial REL35341
+
+ATTENDANCE: Solomiya Tekhservis SE attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Shchedryn'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, VE

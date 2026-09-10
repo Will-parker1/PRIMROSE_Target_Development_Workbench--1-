@@ -1,0 +1,17 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0184
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — professional network
+DATE        : 2025-08-12
+ORIGIN      : Open sources (professional network)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] congrats to Iryna Kravets on the new role, well deserved
+
+[post 2] they finally fixed the fence at Verkhovynske CHP lol
+
+[post 3] congrats to Vira Bondarenko on the new role, well deserved
+
+[post 4] Kruhliak Vodokanal-Servis SE hiring again — three roles posted this week, all in ops

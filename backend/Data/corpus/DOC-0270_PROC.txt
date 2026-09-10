@@ -1,0 +1,18 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0270
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Sivershyna Kompresorservis JSC
+DATE        : 2023-08-12
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2023/2690
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Zaliznyi Kliuch Hrid Systems PrJSC
+AWARDED SUPPLIER      : Sivershyna Kompresorservis JSC
+SUBJECT               : SF6 circuit breakers
+VALUE                 : UAH 27,000,000
+PROCEDURE             : open tender
+COMMENCEMENT          : 2023-08-01
+
+NOTES

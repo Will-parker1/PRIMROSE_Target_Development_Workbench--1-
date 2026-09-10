@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0188
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Substation 'Lypove'
+DATE        : 2024-05-15
+ORIGIN      : Pivdenhrebl Hrid Systems LLC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Substation 'Lypove' (330/110 kV substation)
+OPERATOR      : Pivdenhrebl Hrid Systems LLC
+ASSET REF     : Lypove SS
+COMMISSIONED  : 1987
+RATED         : 40 MW
+CRITICALITY   : MEDIUM
+
+EVENT: control cabinet water ingress recorded at 07:26. Duration 704 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - GT-Aurelia 40MW (gas turbine), serial GT27879
+
+ATTENDANCE: Karpatvuzol Turbomash PrJSC attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Mlynivske'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, PHS

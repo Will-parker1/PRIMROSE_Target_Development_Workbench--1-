@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0152
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Sivershyna Kompresorservis JSC / Vyshnevyi Tekhservis SE
+DATE        : 2026-03-10
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/26955
+--------------------------------------------------------------------------------------------
+
+// 2026-03-10T1034Z //
+
+CORRELATED TRAFFIC: Sivershyna Kompresorservis JSC <-> Vyshnevyi Tekhservis SE
+
+Volume: 73 sessions over 19 days.
+
+Metadata only. Pattern consistent with a routine commercial relationship between SK and Vyshnevyi Tekhservis.
+
+Selector attributed with MODERATE confidence to Vasyl Kalynychenko. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

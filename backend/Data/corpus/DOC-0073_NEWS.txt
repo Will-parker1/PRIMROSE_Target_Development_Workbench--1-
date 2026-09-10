@@ -1,0 +1,14 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0073
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Regional infrastructure: Solomiya in focus
+DATE        : 2025-10-24
+ORIGIN      : Infrastructure Monitor
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Solomiya Tekhservis SE, displacing the
+previous incumbent. Halytske Pumping Station is understood to be covered under the same
+multi-year framework. Chief executive Serhiy Nazarenko described the arrangement as
+consistent with the group's stated regional strategy. ST sits within the Zoriansky Holding
+LLC structure, according to corporate filings.

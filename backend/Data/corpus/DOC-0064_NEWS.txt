@@ -1,0 +1,12 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0064
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Regional infrastructure: Halcyon in focus
+DATE        : 2023-10-17
+ORIGIN      : Energy Herald Weekly
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+A supply relationship between Halcyon Control Systems Oy and Karpatvuzol Turbomash PrJSC
+covering SF6 circuit breakers has come under scrutiny after delivery delays at two regional
+sites.

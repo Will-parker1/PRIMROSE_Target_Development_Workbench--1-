@@ -1,0 +1,24 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0199
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Zaluzhne Gas Compressor Station
+DATE        : 2025-06-05
+ORIGIN      : Sivershyna Kompresorservis JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Zaluzhne Gas Compressor Station (gas compressor station)
+OPERATOR      : Sivershyna Kompresorservis JSC
+ASSET REF     : Zaluzhne CS
+COMMISSIONED  : 1984
+RATED         : 110 MW
+CRITICALITY   : HIGH
+
+EVENT: transformer cooling fan failure recorded at 07:18. Duration 124 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - Relay-Vireo 9 (protection relay), serial REL66934
+
+ATTENDANCE: Hrushivka Tekhservis PrJSC attended under the standing maintenance framework. Secondary support from Rusanivka Transservice SE.
+
+SIGNED: duty engineer, Sivershyna Kompresorservis

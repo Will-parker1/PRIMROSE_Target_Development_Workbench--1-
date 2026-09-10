@@ -1,0 +1,17 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0164
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — public forum
+DATE        : 2026-05-15
+ORIGIN      : Open sources (public forum)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] Panasiuk spoke at the regional forum, mostly boilerplate about resilience
+
+[post 2] anyone know why Vovche Combined Heat and Power Plant was dark most of tuesday? third time this month
+
+[post 3] Kovalenko, Stepan spoke at the regional forum, mostly boilerplate about resilience
+
+[post 4] congrats to Nadia Charalambous on the new role, well deserved

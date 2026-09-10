@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0267
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Zoriansky Kabelprom PJSC
+DATE        : 2023-01-09
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2024/4711
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Sivershyna Kompresorservis JSC
+AWARDED SUPPLIER      : Zoriansky Kabelprom PJSC
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 129,000,000
+PROCEDURE             : restricted procedure
+COMMENCEMENT          : 2023-02-10
+SITE                  : Sosnove Gas Compressor Station
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Substation 'Shchedryn', Sosnove Gas Compressor Station, Yavorivske Marshalling Yard, Substation 'Nadberezhne'.

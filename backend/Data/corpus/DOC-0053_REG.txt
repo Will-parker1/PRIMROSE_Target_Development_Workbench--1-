@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0053
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Yasnohir Optomerezha PrJSC
+DATE        : 2024-08-27
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 31294901
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Yasnohir Optomerezha PrJSC
+REGISTRATION NUMBER : 31294901
+JURISDICTION        : Ukraine
+LEGAL FORM          : PrJSC
+PRINCIPAL ACTIVITY  : telecom
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Olena Shevchuk — Chief Executive Officer, appointed 2023-06-25
+  - Andriy Danylchenko — Finance Director, appointed 2022-12-21
+  - Yaroslav Zubko — Member of the Supervisory Board, appointed 2019-02-13
+  - Mykola Didenko — Member of the Supervisory Board, appointed 2019-11-19
+  - Volodymyr Tymoshuk — Member of the Supervisory Board, appointed 2023-10-20
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.

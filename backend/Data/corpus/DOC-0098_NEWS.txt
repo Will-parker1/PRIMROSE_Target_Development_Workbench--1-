@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0098
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Regional infrastructure: Slobozhanmerezha in focus
+DATE        : 2024-02-13
+ORIGIN      : Dnipro Business Review
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Slobozhanmerezha Turbomash JSC,
+displacing the previous incumbent. Bilyi Kamin Fibre Exchange is understood to be covered
+under the same multi-year framework. Chief executive Yaroslav Lysenko described the
+arrangement as consistent with the group's stated regional strategy. Slobozhanmerezha
+Turbomash JSC sits within the Kruhliak Capital JSC structure, according to corporate
+filings.

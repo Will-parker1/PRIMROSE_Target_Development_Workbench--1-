@@ -1,0 +1,28 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0022
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Pivdenhrebl Hrid Systems LLC
+DATE        : 2025-05-24
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 37481382
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Pivdenhrebl Hrid Systems LLC
+REGISTRATION NUMBER : 37481382
+JURISDICTION        : Ukraine
+LEGAL FORM          : LLC
+PRINCIPAL ACTIVITY  : grid
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Bohdan Havryliuk — Chief Executive Officer, appointed 2019-01-28
+  - Petro Panasiuk — Finance Director, appointed 2020-03-29
+  - Nadiya Zubko — Member of the Supervisory Board, appointed 2024-11-27
+  - Oleksandr Ivanchuk — Member of the Supervisory Board, appointed 2023-01-08
+  - Yuriy Ostapchuk — Member of the Supervisory Board, appointed 2023-08-16
+  - Nataliya Yashchuk — Member of the Supervisory Board, appointed 2022-11-16
+  - Vasyl Levchenko — Member of the Supervisory Board, appointed 2023-09-22
+
+SHAREHOLDINGS DISCLOSED
+  - Verkhovyna Industrial Group PJSC holds 100% (from 2021-01-26)

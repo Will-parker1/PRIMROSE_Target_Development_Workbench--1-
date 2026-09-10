@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0308
+TYPE        : HUMAN SOURCE REPORT
+TITLE       : Field report — nominee arrangements, Terravent Nominees Ltd
+DATE        : 2025-02-11
+ORIGIN      : Field collection team (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SOURCE GRADE: B2
+--------------------------------------------------------------------------------------------
+
+1. (B2) Source with visibility of corporate services work in Valletta states that Terravent
+Nominees Ltd is held for a single client, named by source as Serhiy Marchenko.
+
+2. (C3) Source further states that Serhiy Marchenko is the brother-in-law of Svitlana
+Yeremenko, who holds a senior category management post at National Infrastructure
+Procurement Office (NIPO). Source did not produce documents.
+
+3. (F6) COMMENT: if accurate, this places a procurement decision-maker two family steps from
+an entity with an indirect interest in Kruhliak Enerhoheneratsiya JSC.

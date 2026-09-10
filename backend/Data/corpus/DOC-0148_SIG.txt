@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0148
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Zolotobrid Aquaresurs SE / Sadovyi Yar Prombudmontazh PJSC
+DATE        : 2025-02-18
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/61976
+--------------------------------------------------------------------------------------------
+
+// 2025-02-18T0545Z //
+
+CORRELATED TRAFFIC: Zolotobrid Aquaresurs SE <-> Sadovyi Yar Prombudmontazh PJSC
+
+Volume: 37 sessions over 3 days.
+
+Partial content recovered. Discussion of scheduling and delivery windows referencing Zolotobrid Aquaresurs. No technical detail recovered.
+
+Selector attributed with MODERATE confidence to Anzhelika Zhuravel. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

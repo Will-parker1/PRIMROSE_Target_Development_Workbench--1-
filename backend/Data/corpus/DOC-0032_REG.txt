@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0032
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Zoriansky Kabelprom PJSC
+DATE        : 2026-05-18
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 42985341
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Zoriansky Kabelprom PJSC
+REGISTRATION NUMBER : 42985341
+JURISDICTION        : Ukraine
+LEGAL FORM          : PJSC
+PRINCIPAL ACTIVITY  : manufacturing
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Oksana Boyko — Chief Executive Officer, appointed 2021-05-28
+  - Ihor Lysenko — Finance Director, appointed 2021-03-05
+  - Vira Bondarenko — Member of the Supervisory Board, appointed 2025-01-21
+  - Christos Aristidou — Member of the Supervisory Board, appointed 2023-09-22
+  - Anzhelika Marchenko — Chief Executive Officer (ceased), appointed 2016-04-02
+
+SHAREHOLDINGS DISCLOSED
+  - Kruhliak Capital JSC holds 100% (from 2020-07-16)

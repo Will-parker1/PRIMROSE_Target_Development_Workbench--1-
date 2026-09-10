@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0323
+TYPE        : ALL-SOURCE ASSESSMENT
+TITLE       : Operator assessment — Slobozhanmerezha Turbomash JSC
+DATE        : 2026-02-22
+ORIGIN      : All-source assessment cell (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CONFIDENCE  : HIGH
+--------------------------------------------------------------------------------------------
+
+1. Slobozhanmerezha Turbomash JSC remains the assessed operator of record for its portfolio.
+Reporting over the period is consistent on structure and inconsistent on beneficial
+ownership.
+
+2. Corporate filings place it under Kruhliak Capital JSC. Source reporting has not been
+corroborated by documentary evidence.
+
+3. Gaps: no visibility of subcontractor tiers below the primary framework holder; no
+reliable figure for spares holdings.
+
+SOURCES CONSIDERED: DOC-0107, DOC-0209, DOC-0076, DOC-0126

@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0229
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Kruhliak Data Centre
+DATE        : 2025-10-20
+ORIGIN      : Dniprovenko Optomerezha JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Kruhliak Data Centre (tier-2 colocation data centre)
+OPERATOR      : Dniprovenko Optomerezha JSC
+ASSET REF     : Kruhliak DC
+COMMISSIONED  : 1989
+RATED         : 40 MW
+CRITICALITY   : HIGH
+
+EVENT: loss of auxiliary supply recorded at 05:17. Duration 220 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - RTU-Corvid 240 (remote terminal unit), serial RTU37595
+  - TRF-Merlin-110 (power transformer), serial TRF53140
+
+ATTENDANCE: Podilkaskad Vantazh Group PJSC attended under the standing maintenance framework. Secondary support from Kalynivsky Enerhobud LLC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Kamianyi Mist'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Dniprovenko Optomerezha

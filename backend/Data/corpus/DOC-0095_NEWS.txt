@@ -1,0 +1,14 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0095
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Regional infrastructure: Hrushivka in focus
+DATE        : 2024-08-25
+ORIGIN      : Eastern Utilities Journal
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Hrushivka Tekhservis JSC, displacing
+the previous incumbent. Ridkodub Hydroelectric Plant is understood to be covered under the
+same multi-year framework. Danylchenko, Larysa, who has led the company since 2020-06-09,
+declined to give a figure for the transaction. Hrushivka Tekhservis JSC sits within the
+Bilokamin Industrial Group PrJSC structure, according to corporate filings.

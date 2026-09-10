@@ -1,0 +1,34 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0025
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Kruhliak Capital JSC
+DATE        : 2024-02-27
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 34005431
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Kruhliak Capital JSC
+REGISTRATION NUMBER : 34005431
+JURISDICTION        : Ukraine
+LEGAL FORM          : JSC
+PRINCIPAL ACTIVITY  : holding
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Yuliya Chumak — Chief Executive Officer, appointed 2023-05-23
+  - Taras Oliynyk — Finance Director, appointed 2021-07-12
+  - Yaroslav Bondarenko — Member of the Supervisory Board, appointed 2022-10-06
+  - Sanne de Vries — Member of the Supervisory Board, appointed 2024-04-04
+  - Tomas Reinholt — Member of the Supervisory Board, appointed 2023-09-14
+
+SHAREHOLDINGS DISCLOSED
+  - Meridian Kestrel Trading DMCC holds 75% (from 2020-03-03)
+
+PARTICIPATIONS HELD
+  - 100% of Sadovyi Yar Prombudmontazh PJSC
+  - 100% of Vyshnevyi Tekhservis SE
+  - 90% of Bilokamin Tekhservis SE
+  - 100% of Trypilsk Transservice LLC
+  - 100% of Tavriyaenerho Lohistyka LLC
+  - 100% of Slobozhanmerezha Turbomash JSC

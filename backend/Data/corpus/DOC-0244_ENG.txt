@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0244
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Shyroka Hreblia Water Treatment Works
+DATE        : 2026-02-22
+ORIGIN      : Yasnohir Aquaresurs PJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Shyroka Hreblia Water Treatment Works (municipal water treatment works)
+OPERATOR      : Yasnohir Aquaresurs PJSC
+ASSET REF     : Shyroka Hreblia WTW
+COMMISSIONED  : 1995
+RATED         : 110 kV
+CRITICALITY   : HIGH
+
+EVENT: busbar differential trip recorded at 10:45. Duration 577 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 5 (SCADA platform), serial SCA81869
+
+ATTENDANCE: Bilokamin Tekhservis SE attended under the standing maintenance framework. Secondary support from Hrushivka Tekhservis JSC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Dubove'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Yasnohir Aquaresurs PJSC

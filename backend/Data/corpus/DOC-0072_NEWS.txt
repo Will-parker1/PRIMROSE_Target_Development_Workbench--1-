@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0072
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Questions over Substation arrangement
+DATE        : 2024-01-06
+ORIGIN      : Infrastructure Monitor
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Solomiya Tekhservis SE, displacing the
+previous incumbent. Substation 'Ternova Balka' is understood to be covered under the same
+multi-year framework. Serhiy Nazarenko, who has led the company since 2020-06-30, declined
+to give a figure for the transaction. ST sits within the Zoriansky Holding LLC structure,
+according to corporate filings. The company's assets include Holubyne Transformer Depot in
+Zhytomyrska oblast.

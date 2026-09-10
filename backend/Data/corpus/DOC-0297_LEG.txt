@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0297
+TYPE        : LEGAL / REGULATORY NOTICE
+TITLE       : Commercial Arbitration — Kalynivsky Vodokanal-Servis PJSC
+DATE        : 2026-05-07
+ORIGIN      : Commercial court register (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CASE REF    : CC/2023/898
+--------------------------------------------------------------------------------------------
+
+IN THE MATTER OF Kalynivsky Vodokanal-Servis PJSC — COMMERCIAL ARBITRATION.
+
+The claimant, Sadovyi Yar Prombudmontazh PJSC, alleges non-performance of obligations
+arising under a framework agreement dated 2024-03-01. Quantum is pleaded at UAH 312 million.
+
+The respondent is represented by its officers, including Larysa Nazarenko. The tribunal
+noted that questions of ultimate control remain unresolved on the papers before it.
+
+DIRECTIONS: the respondent shall file a defence within 28 days. Costs reserved.

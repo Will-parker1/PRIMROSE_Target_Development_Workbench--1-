@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0066
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Regional infrastructure: Vyshnevyi in focus
+DATE        : 2025-01-16
+ORIGIN      : Dnipro Business Review
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Vyshnevyi Tekhservis SE, displacing
+the previous incumbent. Halytske Pumping Station is understood to be covered under the same
+multi-year framework. Chief executive Mykola Ostapchuk described the arrangement as
+consistent with the group's stated regional strategy. Vyshnevyi Tekhservis sits within the
+Kruhliak Capital JSC structure, according to corporate filings. The company's assets include
+Trypilske Combined Heat and Power Plant in Kharkivska oblast.

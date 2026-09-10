@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0114
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Yasnohir Optomerezha PrJSC announces resilience investment
+DATE        : 2026-02-04
+ORIGIN      : Yasnohir Optomerezha PrJSC corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Yasnohir Optomerezha PrJSC today announced a programme of resilience investment across its
+regional portfolio.
+
+The programme covers Malynivske Fibre Exchange, Zhovtneve Pole Fibre Exchange, Kryva Balka
+Data Centre, with works scheduled in phases through the coming year.
+
+"Our regional teams have carried an unusual load," said Olena Shevchuk, Chief Executive
+Officer of Yasnohir Optomerezha.
+
+Equipment will be sourced through Vyshnevyi Tekhservis SE under existing framework terms.
+
+Media enquiries: press office, YO.

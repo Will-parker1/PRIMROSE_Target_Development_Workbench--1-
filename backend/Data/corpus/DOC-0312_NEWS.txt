@@ -1,0 +1,14 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0312
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Verkhovyna Industrial Group PJSC completes purchase of Kalynivsky Vodokanal-Servis PJSC
+DATE        : 2024-04-02
+ORIGIN      : Infrastructure Monitor
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Verkhovyna Industrial Group PJSC confirmed on 29 March that it had completed the acquisition
+of Kalynivsky Vodokanal-Servis PJSC from Zoriansky Holding LLC. The transfer took effect the
+following day. Prior to completion Kalynivsky Vodokanal-Servis PJSC had been a wholly owned
+subsidiary of Zoriansky Holding since 2020. The parties did not disclose the price. Filings
+for the 2023 financial year, published in January, still show the previous ownership.

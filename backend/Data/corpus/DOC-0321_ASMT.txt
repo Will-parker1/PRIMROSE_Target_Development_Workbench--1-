@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0321
+TYPE        : ALL-SOURCE ASSESSMENT
+TITLE       : Operator assessment — Yasnohir Aquaresurs PJSC
+DATE        : 2026-01-11
+ORIGIN      : All-source assessment cell (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CONFIDENCE  : MODERATE
+--------------------------------------------------------------------------------------------
+
+1. Yasnohir Aquaresurs PJSC remains the assessed operator of record for its portfolio.
+Reporting over the period is consistent on structure and inconsistent on beneficial
+ownership.
+
+2. Corporate filings place it under Zoriansky Holding LLC. Source reporting has not been
+corroborated by documentary evidence.
+
+3. Gaps: no visibility of subcontractor tiers below the primary framework holder; no
+reliable figure for spares holdings.
+
+SOURCES CONSIDERED: DOC-0246, DOC-0166, DOC-0209, DOC-0231

@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0250
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Trypilsk Transservice LLC
+DATE        : 2025-08-13
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2023/1067
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Kruhliak Vodokanal-Servis SE
+AWARDED SUPPLIER      : Trypilsk Transservice LLC
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 113,000,000
+PROCEDURE             : open tender
+COMMENCEMENT          : 2025-03-29
+SITE                  : Vyrivske Pumping Station
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Bystrytske Hydroelectric Plant, Kaminne Pumping Station, Vyrivske Pumping Station.

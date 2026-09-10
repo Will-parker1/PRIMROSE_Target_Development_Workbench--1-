@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0020
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Kruhliak Enerhoheneratsiya JSC
+DATE        : 2025-06-21
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 34566767
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Kruhliak Enerhoheneratsiya JSC
+REGISTRATION NUMBER : 34566767
+JURISDICTION        : Ukraine
+LEGAL FORM          : JSC
+PRINCIPAL ACTIVITY  : generation
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Serhiy Yeremenko — Chief Executive Officer, appointed 2021-05-12
+  - Roman Zaporozhets — Finance Director, appointed 2020-03-29
+  - Volodymyr Danylchenko — Member of the Supervisory Board, appointed 2024-04-16
+  - Roman Yashchuk — Member of the Supervisory Board, appointed 2022-12-25
+  - Artem Havryliuk — Member of the Supervisory Board, appointed 2019-03-28
+
+SHAREHOLDINGS DISCLOSED
+  - Verkhovyna Industrial Group PJSC holds 100% (from 2019-11-28)
+  - Palewater Assets (Ukraine) LLC holds 34% (from 2023-11-02)

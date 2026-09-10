@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0009
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Rovenna Investments Ltd
+DATE        : 2025-07-03
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 30394745
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Rovenna Investments Ltd
+REGISTRATION NUMBER : 30394745
+JURISDICTION        : Cyprus
+LEGAL FORM          : Ltd
+PRINCIPAL ACTIVITY  : holding
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.
+
+PARTICIPATIONS HELD
+  - 100% of Meridian Kestrel Trading DMCC

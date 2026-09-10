@@ -1,0 +1,12 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0083
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Questions over Hrushivka arrangement
+DATE        : 2025-06-08
+ORIGIN      : Dnipro Business Review
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+A supply relationship between Sarnovo Elektrotechnik AG and Hrushivka Tekhservis JSC
+covering spare transformer cores has come under scrutiny after delivery delays at two
+regional sites.

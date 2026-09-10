@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0274
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Tavriyaenerho Lohistyka LLC
+DATE        : 2023-06-28
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2025/3574
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Skhidkontur Enerhoheneratsiya SE
+AWARDED SUPPLIER      : Tavriyaenerho Lohistyka LLC
+SUBJECT               : diesel for backup generation
+VALUE                 : UAH 56,000,000
+PROCEDURE             : restricted procedure
+COMMENCEMENT          : 2024-08-11
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Trypilske Combined Heat and Power Plant, Zhuravlyne Water Treatment Works, Tykhyi Luh Fibre Exchange, Ostrivets Transformer Depot.

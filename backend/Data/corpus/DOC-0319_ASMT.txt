@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0319
+TYPE        : ALL-SOURCE ASSESSMENT
+TITLE       : Operator assessment — Yasnohir Optomerezha PrJSC
+DATE        : 2026-05-02
+ORIGIN      : All-source assessment cell (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CONFIDENCE  : LOW
+--------------------------------------------------------------------------------------------
+
+1. Yasnohir Optomerezha PrJSC remains the assessed operator of record for its portfolio.
+Reporting over the period is consistent on structure and inconsistent on beneficial
+ownership.
+
+2. Source reporting has not been corroborated by documentary evidence.
+
+3. Gaps: no visibility of subcontractor tiers below the primary framework holder; no
+reliable figure for spares holdings.
+
+SOURCES CONSIDERED: DOC-0110, DOC-0217, DOC-0176, DOC-0012

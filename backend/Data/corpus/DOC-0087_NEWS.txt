@@ -1,0 +1,12 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0087
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Questions over Substation arrangement
+DATE        : 2023-11-20
+ORIGIN      : Grid & Pipeline Digest
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Vitrohin Enerhomerezha JSC confirmed it remains the operator of Substation 'Hrushivske',
+following speculation that the concession would be retendered. V. Moroz, who has led the
+company since 2020-09-11, declined to give a figure for the transaction.

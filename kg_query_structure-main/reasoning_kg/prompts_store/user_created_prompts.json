@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Who is Brad Pitt?",
+    "query": "MATCH (a:Person {{name: 'Brad Pitt'}}) RETURN a"
+  },
+  {
+    "question": "Which films has Tom Hanks been in?",
+    "query": "MATCH (a:Person {{name: 'Tom Hanks'}})-[:ACTED_IN]->(m:Movie) RETURN m.title\n"
+  },
+  {
+    "question": "Which films has Adam Sandler been in?",
+    "query": "MATCH (a:Person {{name: 'Adam Sandler'}})-[:ACTED_IN]->(m:Movie) RETURN m.title"
+  },
+  {
+    "question": "Who directed the film Four Rooms?",
+    "query": "MATCH (m:Movie {{title: 'Four Rooms'}})-[:DIRECTED]-(p:Person) RETURN p.name"
+  },
+  {
+    "question": "Which films has Emma Thompson acted in?",
+    "query": "MATCH (p:Person {{name: 'Emma Thompson'}})-[:ACTED_IN]->(m:Movie) RETURN m.title"
+  }
+]

@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0228
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Tykhyi Luh Fibre Exchange
+DATE        : 2025-12-05
+ORIGIN      : Yasnohir Optomerezha PrJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Tykhyi Luh Fibre Exchange (regional fibre exchange)
+OPERATOR      : Yasnohir Optomerezha PrJSC
+ASSET REF     : Tykhyi Luh TX
+COMMISSIONED  : 1981
+RATED         : 40 MW
+CRITICALITY   : HIGH
+
+EVENT: busbar differential trip recorded at 14:30. Duration 644 minutes. No load lost.
+
+AFFECTED PLANT:
+  - TRF-Kestrel-330 (power transformer), serial TRF96764
+  - Relay-Vireo 9 (protection relay), serial REL21514
+
+ATTENDANCE: Tavriyaenerho Lohistyka LLC attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Verbivske'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, YO

@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0149
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Nadberezh Enerhomerezha PJSC / Vitrohin Kaskad Power JSC
+DATE        : 2025-03-22
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/93065
+--------------------------------------------------------------------------------------------
+
+// 2025-03-22T0954Z //
+
+CORRELATED TRAFFIC: Nadberezh Enerhomerezha PJSC <-> Vitrohin Kaskad Power JSC
+
+Volume: 68 sessions over 18 days.
+
+Two references to an unnamed third party described only as 'the holding'. Identity not established.
+
+Selector attributed with MODERATE confidence to Iryna Pylypenko. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

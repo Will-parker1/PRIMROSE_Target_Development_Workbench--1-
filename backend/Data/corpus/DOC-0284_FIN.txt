@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0284
+TYPE        : FINANCIAL FILING EXTRACT
+TITLE       : Financial statement note — Zoriansky Kabelprom PJSC
+DATE        : 2026-03-06
+ORIGIN      : Statutory filing (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+NOTE 14 — RELATED PARTY TRANSACTIONS. Zoriansky Kabelprom PJSC reported revenue of UAH 2646
+million for the period, of which UAH 912 million arose from transactions with entities under
+common control.
+
+The immediate parent is Kruhliak Capital JSC, holding 100%. The directors consider the
+ultimate controlling party to be disclosed in the group accounts, which are not filed
+locally.
+
+AUDITOR EMPHASIS OF MATTER: we draw attention to the concentration of receivables, 42% of
+which are due from a single counterparty. Our opinion is not modified in this respect.

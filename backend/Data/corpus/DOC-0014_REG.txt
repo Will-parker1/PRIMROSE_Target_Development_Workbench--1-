@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0014
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Sarnovo Trade AG
+DATE        : 2025-06-18
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 40421400
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Sarnovo Trade AG
+REGISTRATION NUMBER : 40421400
+JURISDICTION        : Switzerland
+LEGAL FORM          : AG
+PRINCIPAL ACTIVITY  : holding
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - Terravent Nominees Ltd holds 100% (from 2022-04-01)
+
+PARTICIPATIONS HELD
+  - 100% of Palewater Assets (Ukraine) LLC

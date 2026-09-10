@@ -1,0 +1,17 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0179
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — industry mailing list
+DATE        : 2025-11-27
+ORIGIN      : Open sources (industry mailing list)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] Sanne de Vries spoke at the regional forum, mostly boilerplate about resilience
+
+[post 2] heard Skhidkontur Enerhoheneratsiya lost a contract. no source, just what a friend said
+
+[post 3] Roman Bondarenko spoke at the regional forum, mostly boilerplate about resilience
+
+[post 4] they finally fixed the fence at Kryva Balka Data Centre lol

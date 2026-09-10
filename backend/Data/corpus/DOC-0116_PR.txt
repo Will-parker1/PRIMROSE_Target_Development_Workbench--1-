@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0116
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Trypilsk Transservice LLC announces leadership appointment
+DATE        : 2025-09-15
+ORIGIN      : Trypilsk Transservice LLC corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Trypilsk Transservice LLC today announced a programme of leadership appointment across its
+regional portfolio.
+
+The programme covers Bystrytske Hydroelectric Plant, Kaminne Pumping Station, Vyrivske
+Pumping Station. Commissioning dates have not been published.
+
+"Continuity of supply is the measure that matters," said Larysa Savchuk, Chief Executive
+Officer of TT.
+
+Media enquiries: press office, TT.

@@ -1,0 +1,23 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0029
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Trypilsk Transservice LLC
+DATE        : 2025-10-05
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 42714339
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Trypilsk Transservice LLC
+REGISTRATION NUMBER : 42714339
+JURISDICTION        : Ukraine
+LEGAL FORM          : LLC
+PRINCIPAL ACTIVITY  : logistics
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Larysa Savchuk — Chief Executive Officer, appointed 2022-01-16
+  - Ihor Didenko — Member of the Supervisory Board, appointed 2021-12-31
+
+SHAREHOLDINGS DISCLOSED
+  - Kruhliak Capital JSC holds 100% (from 2020-05-02)

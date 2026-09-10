@@ -1,0 +1,14 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0071
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Questions over Livoberezh arrangement
+DATE        : 2024-01-13
+ORIGIN      : Kyiv Commercial Wire
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Chornokrai Zaliznychservis SE will continue to supply diesel for backup generation to
+Livoberezh Kolii-Prom PrJSC under a framework agreement renewed this quarter. The
+arrangement dates back several years. N. Yashchuk, who has led the company since 2021-06-04,
+declined to give a figure for the transaction. Chornokrai Zaliznychservis sits within the
+Zoriansky Holding LLC structure, according to corporate filings.

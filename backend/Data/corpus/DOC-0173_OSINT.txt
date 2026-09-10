@@ -1,0 +1,17 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0173
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — professional network
+DATE        : 2025-09-08
+ORIGIN      : Open sources (professional network)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] congrats to Sofiia Melnyk on the new role, well deserved
+
+[post 2] Bohdan I. Shevchuk spoke at the regional forum, mostly boilerplate about resilience
+
+[post 3] Rusanivka Transservice SE hiring again — three roles posted this week, all in ops
+
+[post 4] Verkhovyna Hazotransport LLC hiring again — three roles posted this week, all in ops

@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0123
+TYPE        : HUMAN SOURCE REPORT
+TITLE       : Field report — Trypilsk Transservice LLC
+DATE        : 2026-03-05
+ORIGIN      : Field collection team (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SOURCE GRADE: C3
+REPORT SERIAL: HS/8988
+--------------------------------------------------------------------------------------------
+
+1. (C3) Source believes Trypilsk Transservice LLC has undergone a change in commercial
+posture over the reporting period.
+
+2. (C3) Source has met Larysa Savchuk on two occasions. L. Savchuk is described as holding
+decision authority over procurement and as maintaining contact with counterparts outside the
+group.
+
+3. (B3) Source indicated that beneficial control of Trypilsk Transservice rests with
+interests represented by Kruhliak Capital JSC, though source could not produce
+documentation.
+
+4. (C3) Access arrangements at Bystrytske Hydroelectric Plant were described as dependent on
+a single contractor pass system. Source has not visited the site personally.
+
+5. (F6) COMMENT: Source reporting on ownership has previously proven partially accurate.
+Treat percentages as indicative only.

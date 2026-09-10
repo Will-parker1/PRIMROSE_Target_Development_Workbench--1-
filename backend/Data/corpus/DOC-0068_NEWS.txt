@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0068
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Karpatvuzol deal draws attention in regional utilities
+DATE        : 2024-02-10
+ORIGIN      : Kyiv Commercial Wire
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Karpatvuzol Prombudmontazh SE,
+displacing the previous incumbent. Livoberezhne Water Treatment Works is understood to be
+covered under the same multi-year framework. Chief executive Oksana Kravets described the
+arrangement as consistent with the group's stated regional strategy. Karpatvuzol
+Prombudmontazh sits within the Verkhovyna Industrial Group PJSC structure, according to
+corporate filings.

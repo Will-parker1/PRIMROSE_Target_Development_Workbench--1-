@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0208
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Terenivske Transformer Depot
+DATE        : 2024-01-21
+ORIGIN      : Pivdenhrebl Hrid Systems LLC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Terenivske Transformer Depot (grid maintenance and transformer depot)
+OPERATOR      : Pivdenhrebl Hrid Systems LLC
+ASSET REF     : Terenivske DEP
+COMMISSIONED  : 1993
+RATED         : 22 000 m3/day
+CRITICALITY   : HIGH
+
+EVENT: SCADA telemetry dropout recorded at 06:35. Duration 897 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - RTU-Corvid 240 (remote terminal unit), serial RTU29429
+  - SCADA Halcyon 5 (SCADA platform), serial SCA87804
+
+ATTENDANCE: Karpatvuzol Turbomash PrJSC attended under the standing maintenance framework. Secondary support from Rusanivka Transservice SE.
+
+SIGNED: duty engineer, Pivdenhrebl Hrid Systems TOV

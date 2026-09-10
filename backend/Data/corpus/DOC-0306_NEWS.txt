@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0306
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Minority stake in Kruhliak Enerhoheneratsiya JSC changes hands
+DATE        : 2023-11-09
+ORIGIN      : Dnipro Business Review
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+A 34% interest in Kruhliak Enerhoheneratsiya JSC was placed privately last week with
+Palewater Assets (Ukraine) LLC, a Ukrainian-registered vehicle incorporated earlier the same
+year. The buyer has no published trading history and lists a serviced address in Kyiv.
+Kruhliak Enerhoheneratsiya JSC operates Zolotyi Brid Combined Heat and Power Plant, one of
+the larger thermal sites in its oblast. Neither the vendor nor Palewater Assets (Ukraine)
+would disclose consideration.

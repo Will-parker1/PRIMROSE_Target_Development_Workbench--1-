@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0217
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Struminka Combined Heat and Power Plant
+DATE        : 2024-09-13
+ORIGIN      : Zolotobrid Teploenerho PrJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Struminka Combined Heat and Power Plant (combined heat and power plant)
+OPERATOR      : Zolotobrid Teploenerho PrJSC
+ASSET REF     : Struminka CHP
+COMMISSIONED  : 1979
+RATED         : 110 MW
+CRITICALITY   : MEDIUM
+
+EVENT: transformer cooling fan failure recorded at 22:40. Duration 794 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 5 (SCADA platform), serial SCA38933
+
+ATTENDANCE: Vitrohin Lohistyka SE attended under the standing maintenance framework. Secondary support from Solomiya Tekhservis SE.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Vilkhove'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, ZT

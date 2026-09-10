@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0258
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Solomiya Tekhservis SE
+DATE        : 2024-11-16
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2023/9115
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Bilokamin Tekhservis SE
+AWARDED SUPPLIER      : Solomiya Tekhservis SE
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 91,000,000
+PROCEDURE             : restricted procedure
+COMMENCEMENT          : 2022-06-08
+SITE                  : Kliuchove Transformer Depot
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Substation 'Ternova Balka', Substation 'Shchedryn', Suhoklen Pumping Station, Kliuchove Transformer Depot.

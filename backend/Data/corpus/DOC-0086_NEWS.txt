@@ -1,0 +1,14 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0086
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Questions over Nadberezh arrangement
+DATE        : 2024-09-24
+ORIGIN      : Eastern Utilities Journal
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Verkhovyna Industrial Group PJSC has confirmed that it holds a 90% interest in Nadberezh
+Enerhomerezha PJSC, a position the company says it built up over the preceding eighteen
+months. Analysts had previously assumed a smaller holding. Sirko, who has led the company
+since 2022-08-29, declined to give a figure for the transaction. Verkhovyna Industrial Group
+PJSC sits within the Astrolabe Holdings Ltd structure, according to corporate filings.

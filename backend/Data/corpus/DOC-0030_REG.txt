@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0030
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Tavriyaenerho Lohistyka LLC
+DATE        : 2025-04-25
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 44008594
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Tavriyaenerho Lohistyka LLC
+REGISTRATION NUMBER : 44008594
+JURISDICTION        : Ukraine
+LEGAL FORM          : LLC
+PRINCIPAL ACTIVITY  : logistics
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Serhiy Zubko — Chief Executive Officer, appointed 2021-06-27
+  - Vira Tymoshuk — Finance Director, appointed 2020-08-27
+  - Vitaliy Yeremenko — Member of the Supervisory Board, appointed 2022-07-02
+  - Halyna Yashchuk — Member of the Supervisory Board, appointed 2023-05-08
+  - Sanne de Vries — Member of the Supervisory Board, appointed 2024-07-26
+
+SHAREHOLDINGS DISCLOSED
+  - Kruhliak Capital JSC holds 100% (from 2021-04-11)

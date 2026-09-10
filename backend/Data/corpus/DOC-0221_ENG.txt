@@ -1,0 +1,24 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0221
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Sosnove Gas Compressor Station
+DATE        : 2026-05-30
+ORIGIN      : Sivershyna Kompresorservis JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Sosnove Gas Compressor Station (gas compressor station)
+OPERATOR      : Sivershyna Kompresorservis JSC
+ASSET REF     : Sosnove CS
+COMMISSIONED  : 2011
+RATED         : 330 kV
+CRITICALITY   : MEDIUM
+
+EVENT: loss of auxiliary supply recorded at 06:15. Duration 507 minutes. No load lost.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 7 (SCADA platform), serial SCA19239
+
+ATTENDANCE: Zoriansky Kabelprom PJSC attended under the standing maintenance framework. 
+
+SIGNED: duty engineer, Sivershyna Kompresorservis

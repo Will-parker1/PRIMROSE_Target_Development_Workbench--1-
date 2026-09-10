@@ -1,0 +1,18 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0113
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Pivdenhrebl Aquaresurs SE announces network modernisation
+DATE        : 2026-03-11
+ORIGIN      : Pivdenhrebl Aquaresurs SE corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Pivdenhrebl Aquaresurs SE today announced a programme of network modernisation across its
+regional portfolio.
+
+The programme covers Orlivske Pumping Station. Commissioning dates have not been published.
+
+"Continuity of supply is the measure that matters," said Ruslan Savchuk, Chief Executive
+Officer of Pivdenhrebl Aquaresurs SE.
+
+Media enquiries: press office, Pivdenhrebl Aquaresurs.

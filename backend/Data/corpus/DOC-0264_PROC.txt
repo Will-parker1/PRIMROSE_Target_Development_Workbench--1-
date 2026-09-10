@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0264
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Solomiya Tekhservis SE
+DATE        : 2025-03-01
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2024/2017
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Livoberezh Hrid Systems JSC
+AWARDED SUPPLIER      : Solomiya Tekhservis SE
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 97,000,000
+PROCEDURE             : framework call-off
+COMMENCEMENT          : 2021-02-08
+SITE                  : Substation 'Kamianyi Mist'
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Substation 'Ternova Balka', Substation 'Shchedryn', Suhoklen Pumping Station, Kliuchove Transformer Depot.

@@ -1,0 +1,18 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0268
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Ostrivets Kaskad Power JSC
+DATE        : 2024-01-23
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2024/1342
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Zoriansky Kabelprom PJSC
+AWARDED SUPPLIER      : Ostrivets Kaskad Power JSC
+SUBJECT               : pipeline compressor blades
+VALUE                 : UAH 48,000,000
+PROCEDURE             : restricted procedure
+COMMENCEMENT          : 2026-06-10
+
+NOTES

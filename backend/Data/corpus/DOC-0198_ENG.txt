@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0198
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Zorepad Gas Compressor Station
+DATE        : 2025-10-19
+ORIGIN      : Shchedryn Kompresorservis PJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Zorepad Gas Compressor Station (gas compressor station)
+OPERATOR      : Shchedryn Kompresorservis PJSC
+ASSET REF     : Zorepad CS
+COMMISSIONED  : 1978
+RATED         : 40 MW
+CRITICALITY   : MEDIUM
+
+EVENT: loss of auxiliary supply recorded at 18:15. Duration 306 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - RTU-Corvid 240 (remote terminal unit), serial RTU84409
+  - GT-Aurelia 40MW (gas turbine), serial GT49730
+
+ATTENDANCE: Vyshnevyi Tekhservis SE attended under the standing maintenance framework. 
+
+SIGNED: duty engineer, SK

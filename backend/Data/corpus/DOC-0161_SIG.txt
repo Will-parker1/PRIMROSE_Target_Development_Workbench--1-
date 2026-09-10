@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0161
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Livoberezh Kolii-Prom PrJSC / Vitrohin Lohistyka SE
+DATE        : 2024-11-20
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/30546
+--------------------------------------------------------------------------------------------
+
+// 2024-11-20T1133Z //
+
+CORRELATED TRAFFIC: Livoberezh Kolii-Prom PrJSC <-> Vitrohin Lohistyka SE
+
+Volume: 4 sessions over 13 days.
+
+Partial content recovered. Discussion of scheduling and delivery windows referencing Livoberezh Kolii-Prom PrJSC. No technical detail recovered.
+
+Selector attributed with MODERATE confidence to Roman Levchenko. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

@@ -1,0 +1,13 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0092
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Regional infrastructure: Vitrohin in focus
+DATE        : 2025-06-16
+ORIGIN      : Eastern Utilities Journal
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Vitrohin Lohistyka SE, displacing the
+previous incumbent. Orlivske Pumping Station is understood to be covered under the same
+multi-year framework. Chief executive Vasyl Levchenko described the arrangement as
+consistent with the group's stated regional strategy.

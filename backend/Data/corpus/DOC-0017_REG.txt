@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0017
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Nadberezh Enerhomerezha PJSC
+DATE        : 2024-06-04
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 34949112
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Nadberezh Enerhomerezha PJSC
+REGISTRATION NUMBER : 34949112
+JURISDICTION        : Ukraine
+LEGAL FORM          : PJSC
+PRINCIPAL ACTIVITY  : grid
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Iryna Pylypenko — Chief Executive Officer, appointed 2022-01-19
+  - Yuliya Ivanchuk — Finance Director, appointed 2023-05-27
+  - Taras Zaporozhets — Member of the Supervisory Board, appointed 2021-12-09
+  - Christos Aristidou — Member of the Supervisory Board, appointed 2020-12-08
+  - Vitaliy Havryliuk — Member of the Supervisory Board, appointed 2024-07-19
+  - Dmytro Nazarenko — Chief Executive Officer (ceased), appointed 2017-11-30
+
+SHAREHOLDINGS DISCLOSED
+  - Verkhovyna Industrial Group PJSC holds 90% (from 2020-12-12)

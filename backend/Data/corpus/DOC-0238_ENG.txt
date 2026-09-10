@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0238
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Zolotyi Brid Combined Heat and Power Plant
+DATE        : 2024-09-15
+ORIGIN      : Kruhliak Enerhoheneratsiya JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Zolotyi Brid Combined Heat and Power Plant (combined heat and power plant)
+OPERATOR      : Kruhliak Enerhoheneratsiya JSC
+ASSET REF     : Zolotyi Brid CHP
+COMMISSIONED  : 1984
+RATED         : 110 kV
+CRITICALITY   : HIGH
+
+EVENT: transformer cooling fan failure recorded at 14:24. Duration 526 minutes. No load lost.
+
+AFFECTED PLANT:
+  - PLC-Basalt X2 (programmable logic controller), serial PLC73832
+
+ATTENDANCE: Slobozhanmerezha Turbomash JSC attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Rakytne'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Kruhliak Enerhoheneratsiya JSC

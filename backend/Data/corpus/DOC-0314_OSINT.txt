@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0314
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — professional network
+DATE        : 2025-11-12
+ORIGIN      : Open sources (professional network)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] profile update: Vasyl Kravets — Non-Executive Director, Bilokamin Tekhservis SE (2021–present); Non-Executive Director, Dniprovenko Optomerezha JSC (2023–present).
+
+[post 2] unusual to see the same NED on both of those boards, they compete for nothing and share no owner as far as I can tell
+
+[post 3] declared at the AGM apparently, no objections raised

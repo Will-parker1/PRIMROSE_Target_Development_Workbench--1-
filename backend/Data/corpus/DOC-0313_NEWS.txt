@@ -1,0 +1,13 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0313
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Stake in Shchedryn Kompresorservis PJSC larger than filed, sources say
+DATE        : 2025-09-30
+ORIGIN      : Energy Herald Weekly
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Two people familiar with the shareholder register say the holding in Shchedryn
+Kompresorservis PJSC is 62%, not the 51% recorded in the statutory filing. The discrepancy
+is attributed to an option exercised but not yet registered. The company declined to
+comment.

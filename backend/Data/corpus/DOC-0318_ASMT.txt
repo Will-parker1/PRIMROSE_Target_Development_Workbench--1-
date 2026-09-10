@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0318
+TYPE        : ALL-SOURCE ASSESSMENT
+TITLE       : Operator assessment — Vitrohin Enerhomerezha JSC
+DATE        : 2025-04-16
+ORIGIN      : All-source assessment cell (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CONFIDENCE  : HIGH
+--------------------------------------------------------------------------------------------
+
+1. Vitrohin Enerhomerezha JSC remains the assessed operator of record for its portfolio.
+Reporting over the period is consistent on structure and inconsistent on beneficial
+ownership.
+
+2. Source reporting has not been corroborated by documentary evidence.
+
+3. Gaps: no visibility of subcontractor tiers below the primary framework holder; no
+reliable figure for spares holdings.
+
+SOURCES CONSIDERED: DOC-0102, DOC-0002, DOC-0122, DOC-0135

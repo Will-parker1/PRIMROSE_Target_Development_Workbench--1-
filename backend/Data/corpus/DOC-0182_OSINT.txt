@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0182
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — regional news comments
+DATE        : 2026-04-23
+ORIGIN      : Open sources (regional news comments)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] drove past Zolotyi Brid Combined Heat and Power Plant yesterday, two new transformer units on flatbeds outside
+
+[post 2] Petro Tymoshuk spoke at the regional forum, mostly boilerplate about resilience
+
+[post 3] Zhuravel spoke at the regional forum, mostly boilerplate about resilience

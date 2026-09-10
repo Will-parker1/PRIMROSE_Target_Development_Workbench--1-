@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0042
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Sivershyna Kompresorservis JSC
+DATE        : 2024-10-11
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 30723526
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Sivershyna Kompresorservis JSC
+REGISTRATION NUMBER : 30723526
+JURISDICTION        : Ukraine
+LEGAL FORM          : JSC
+PRINCIPAL ACTIVITY  : gas
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Vasyl Kalynychenko — Chief Executive Officer, appointed 2022-01-05
+  - Olena Sirko — Finance Director, appointed 2020-11-09
+  - Tomas Reinholt — Member of the Supervisory Board, appointed 2023-01-22
+  - Nadiya Melnyk — Member of the Supervisory Board, appointed 2020-03-27
+  - Christos Aristidou — Member of the Supervisory Board, appointed 2023-11-07
+
+SHAREHOLDINGS DISCLOSED
+  - Bilokamin Industrial Group PrJSC holds 60% (from 2021-05-15)

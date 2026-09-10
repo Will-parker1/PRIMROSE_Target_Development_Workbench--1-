@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0156
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Zaliznyi Kliuch Hrid Systems PrJSC / Vitrohin Kaskad Power JSC
+DATE        : 2024-10-21
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/22320
+--------------------------------------------------------------------------------------------
+
+// 2024-10-21T2144Z //
+
+CORRELATED TRAFFIC: Zaliznyi Kliuch Hrid Systems PrJSC <-> Vitrohin Kaskad Power JSC
+
+Volume: 61 sessions over 5 days.
+
+Metadata only. Pattern consistent with a routine commercial relationship between Zaliznyi Kliuch Hrid Systems PrJSC and Vitrohin Kaskad Power.
+
+Selector attributed with MODERATE confidence to Vira Didenko. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

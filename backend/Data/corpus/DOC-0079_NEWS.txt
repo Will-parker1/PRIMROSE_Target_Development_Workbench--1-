@@ -1,0 +1,12 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0079
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Regional infrastructure: Livoberezh in focus
+DATE        : 2026-02-04
+ORIGIN      : Infrastructure Monitor
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Livoberezh Hrid Systems JSC confirmed it remains the operator of Substation 'Sriblianske',
+following speculation that the concession would be retendered. Chief executive Volodymyr
+Tymoshuk described the arrangement as consistent with the group's stated regional strategy.

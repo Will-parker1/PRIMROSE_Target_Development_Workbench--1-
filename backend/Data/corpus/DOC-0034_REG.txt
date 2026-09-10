@@ -1,0 +1,24 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0034
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Kalynivsky Vodokanal-Servis PJSC
+DATE        : 2026-04-15
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 40144433
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Kalynivsky Vodokanal-Servis PJSC
+REGISTRATION NUMBER : 40144433
+JURISDICTION        : Ukraine
+LEGAL FORM          : PJSC
+PRINCIPAL ACTIVITY  : water
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Larysa Nazarenko — Chief Executive Officer, appointed 2023-06-10
+  - Pavlo Tymoshuk — Member of the Supervisory Board, appointed 2022-09-25
+
+SHAREHOLDINGS DISCLOSED
+  - Zoriansky Holding LLC holds 75% (from 2020-09-11 to 2024-03-28)
+  - Verkhovyna Industrial Group PJSC holds 100% (from 2024-03-29)

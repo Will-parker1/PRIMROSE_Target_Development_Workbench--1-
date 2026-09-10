@@ -1,0 +1,14 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0067
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Hrushivka deal draws attention in regional utilities
+DATE        : 2024-12-21
+ORIGIN      : Energy Herald Weekly
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Hrushivka Tekhservis PrJSC, displacing
+the previous incumbent. Sichove Hydroelectric Plant is understood to be covered under the
+same multi-year framework. Chief executive Tetiana Zaporozhets described the arrangement as
+consistent with the group's stated regional strategy. The company's assets include
+Substation 'Mlynivske' in Dnipropetrovska oblast.

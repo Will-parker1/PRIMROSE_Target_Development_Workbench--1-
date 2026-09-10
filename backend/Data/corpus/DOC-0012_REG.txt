@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0012
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Okrasan Global Ltd
+DATE        : 2024-12-17
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 44919491
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Okrasan Global Ltd
+REGISTRATION NUMBER : 44919491
+JURISDICTION        : Seychelles
+LEGAL FORM          : Ltd
+PRINCIPAL ACTIVITY  : holding
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - Brightmarsh Equity Ltd holds 100% (from 2019-06-23)
+
+PARTICIPATIONS HELD
+  - 65% of Bilokamin Industrial Group PrJSC

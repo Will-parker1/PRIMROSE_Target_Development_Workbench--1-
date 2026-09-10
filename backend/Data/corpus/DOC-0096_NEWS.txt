@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0096
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Podilkaskad deal draws attention in regional utilities
+DATE        : 2024-08-30
+ORIGIN      : Grid & Pipeline Digest
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Podilkaskad Vantazh Group PJSC,
+displacing the previous incumbent. Rusaniv Water Treatment Works is understood to be covered
+under the same multi-year framework. L. Moroz, who has led the company since 2022-12-15,
+declined to give a figure for the transaction. PVG sits within the Bilokamin Industrial
+Group PrJSC structure, according to corporate filings. The company's assets include Vitrohin
+Combined Heat and Power Plant in Odeska oblast.

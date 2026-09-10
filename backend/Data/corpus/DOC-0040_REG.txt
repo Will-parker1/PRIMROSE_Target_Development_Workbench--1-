@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0040
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Solomiya Tekhservis SE
+DATE        : 2025-05-03
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 32316849
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Solomiya Tekhservis SE
+REGISTRATION NUMBER : 32316849
+JURISDICTION        : Ukraine
+LEGAL FORM          : SE
+PRINCIPAL ACTIVITY  : engineering
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Serhiy Nazarenko — Chief Executive Officer, appointed 2020-06-30
+  - Zoriana Sirko — Finance Director, appointed 2022-09-09
+  - Karl Ostberg — Member of the Supervisory Board, appointed 2020-07-06
+  - Yuliya Lysenko — Member of the Supervisory Board, appointed 2022-08-19
+  - Yuriy Kovalenko — Member of the Supervisory Board, appointed 2024-09-17
+
+SHAREHOLDINGS DISCLOSED
+  - Zoriansky Holding LLC holds 75% (from 2019-09-13)

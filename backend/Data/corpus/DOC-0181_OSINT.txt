@@ -1,0 +1,13 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0181
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — professional network
+DATE        : 2025-02-01
+ORIGIN      : Open sources (professional network)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] congrats to Volodymyr Kovalenko on the new role, well deserved
+
+[post 2] Zolotobrid Teploenerho PrJSC hiring again — three roles posted this week, all in ops

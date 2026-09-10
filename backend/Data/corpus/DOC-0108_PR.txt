@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0108
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Rusanivka Transservice SE announces supply agreement
+DATE        : 2024-04-14
+ORIGIN      : Rusanivka Transservice SE corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Rusanivka Transservice SE today announced a programme of supply agreement across its
+regional portfolio.
+
+The programme covers Zaluzhne Gas Compressor Station, Terenivske Transformer Depot,
+Substation 'Rakytne', with works scheduled in phases through the coming year.
+
+"Continuity of supply is the measure that matters," said Svitlana Hrytsenko, Chief Executive
+Officer of Rusanivka Transservice SE.
+
+Equipment will be sourced through Vitrohin Enerhomerezha JSC under existing framework terms.
+
+Media enquiries: press office, Rusanivka Transservice.

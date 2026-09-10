@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0006
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Astrolabe Holdings Ltd
+DATE        : 2026-03-23
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 38588720
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Astrolabe Holdings Ltd
+REGISTRATION NUMBER : 38588720
+JURISDICTION        : Cyprus
+LEGAL FORM          : Ltd
+PRINCIPAL ACTIVITY  : holding
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - Nyxthorn Capital Partners Ltd holds 100% (from 2018-09-26)
+
+PARTICIPATIONS HELD
+  - 75% of Verkhovyna Industrial Group PJSC

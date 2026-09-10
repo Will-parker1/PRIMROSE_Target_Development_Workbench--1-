@@ -1,0 +1,24 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0050
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Vitrohin Enerhomerezha JSC
+DATE        : 2025-12-04
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 44783476
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Vitrohin Enerhomerezha JSC
+REGISTRATION NUMBER : 44783476
+JURISDICTION        : Ukraine
+LEGAL FORM          : JSC
+PRINCIPAL ACTIVITY  : grid
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Volodymyr Moroz — Chief Executive Officer, appointed 2020-09-11
+  - Serhiy Havryliuk — Finance Director, appointed 2020-01-24
+  - Andriy Yeremenko — Member of the Supervisory Board, appointed 2020-11-23
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.

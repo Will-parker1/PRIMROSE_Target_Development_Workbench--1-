@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0216
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Vovche Combined Heat and Power Plant
+DATE        : 2025-08-06
+ORIGIN      : Ostrivets Kaskad Power JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Vovche Combined Heat and Power Plant (combined heat and power plant)
+OPERATOR      : Ostrivets Kaskad Power JSC
+ASSET REF     : Vovche CHP
+COMMISSIONED  : 2009
+RATED         : 110 kV
+CRITICALITY   : LOW
+
+EVENT: transformer cooling fan failure recorded at 21:41. Duration 245 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - TRF-Merlin-110 (power transformer), serial TRF22281
+
+ATTENDANCE: Vitrohin Enerhobud PrJSC attended under the standing maintenance framework. Secondary support from Slobozhanmerezha Turbomash JSC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Rakytne'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Ostrivets Kaskad Power

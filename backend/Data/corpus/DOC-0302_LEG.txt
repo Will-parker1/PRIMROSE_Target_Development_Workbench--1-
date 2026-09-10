@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0302
+TYPE        : LEGAL / REGULATORY NOTICE
+TITLE       : Contract Termination Dispute — Vyshnevyi Tekhservis SE
+DATE        : 2026-05-24
+ORIGIN      : Commercial court register (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CASE REF    : CC/2025/752
+--------------------------------------------------------------------------------------------
+
+IN THE MATTER OF Vyshnevyi Tekhservis SE — CONTRACT TERMINATION DISPUTE.
+
+The claimant, Verkhovyna Teploenerho PJSC, alleges non-performance of obligations arising
+under a framework agreement dated 2022-03-26. Quantum is pleaded at UAH 173 million.
+
+The respondent is represented by its officers, including Mykola Ostapchuk. The tribunal
+noted that questions of ultimate control remain unresolved on the papers before it.
+
+DIRECTIONS: the respondent shall file a defence within 28 days. Costs reserved.

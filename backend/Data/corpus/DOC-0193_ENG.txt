@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0193
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Vitrohin Combined Heat and Power Plant
+DATE        : 2025-09-05
+ORIGIN      : Verkhovyna Teploenerho PJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Vitrohin Combined Heat and Power Plant (combined heat and power plant)
+OPERATOR      : Verkhovyna Teploenerho PJSC
+ASSET REF     : Vitrohin CHP
+COMMISSIONED  : 1998
+RATED         : 18 MW
+CRITICALITY   : MEDIUM
+
+EVENT: SCADA telemetry dropout recorded at 10:17. Duration 663 minutes. No load lost.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 7 (SCADA platform), serial SCA72534
+
+ATTENDANCE: Podilkaskad Vantazh Group PJSC attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Verbivske'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Verkhovyna Teploenerho PJSC

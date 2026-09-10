@@ -1,0 +1,13 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0088
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Questions over Chystovodne arrangement
+DATE        : 2024-01-16
+ORIGIN      : Grid & Pipeline Digest
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Karpatvuzol Prombudmontazh SE,
+displacing the previous incumbent. Chystovodne Water Treatment Works is understood to be
+covered under the same multi-year framework. Chief executive Oksana Kravets described the
+arrangement as consistent with the group's stated regional strategy.

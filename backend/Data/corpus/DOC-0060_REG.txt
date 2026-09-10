@@ -1,0 +1,24 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0060
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Karpatvuzol Turbomash PrJSC
+DATE        : 2026-05-28
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 44124901
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Karpatvuzol Turbomash PrJSC
+REGISTRATION NUMBER : 44124901
+JURISDICTION        : Ukraine
+LEGAL FORM          : PrJSC
+PRINCIPAL ACTIVITY  : manufacturing
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Petro Tkachuk — Chief Executive Officer, appointed 2022-12-23
+  - Yuliya Savchuk — Finance Director, appointed 2023-05-10
+  - Vira Nazarenko — Member of the Supervisory Board, appointed 2020-06-27
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.

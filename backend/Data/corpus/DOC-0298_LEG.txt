@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0298
+TYPE        : LEGAL / REGULATORY NOTICE
+TITLE       : Regulatory Penalty — Yasnohir Aquaresurs PJSC
+DATE        : 2025-02-28
+ORIGIN      : Commercial court register (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CASE REF    : CC/2024/363
+--------------------------------------------------------------------------------------------
+
+IN THE MATTER OF Yasnohir Aquaresurs PJSC — REGULATORY PENALTY.
+
+The claimant, Karpatvuzol Prombudmontazh SE, alleges non-performance of obligations arising
+under a framework agreement dated 2021-10-09. Quantum is pleaded at UAH 288 million.
+
+The respondent is represented by its officers, including Denys Savchuk. The tribunal noted
+that questions of ultimate control remain unresolved on the papers before it.
+
+DIRECTIONS: the respondent shall file a defence within 28 days. Costs reserved.

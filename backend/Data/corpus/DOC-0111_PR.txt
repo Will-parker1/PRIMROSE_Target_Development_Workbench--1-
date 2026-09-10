@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0111
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Karpatvuzol Prombudmontazh SE announces winter readiness
+DATE        : 2025-04-19
+ORIGIN      : Karpatvuzol Prombudmontazh SE corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Karpatvuzol Prombudmontazh SE today announced a programme of winter readiness across its
+regional portfolio.
+
+The programme covers Livoberezhne Water Treatment Works, Solomiyivske Pumping Station,
+Ostrivets Transformer Depot, with works scheduled in phases through the coming year.
+
+"Our regional teams have carried an unusual load," said Oksana Kravets, Chief Executive
+Officer of KP.
+
+Equipment will be sourced through Sarnovo Elektrotechnik AG under existing framework terms.
+
+Media enquiries: press office, KP.

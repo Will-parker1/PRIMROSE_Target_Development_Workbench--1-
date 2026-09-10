@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0035
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Zolotobrid Aquaresurs SE
+DATE        : 2025-01-31
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 31590764
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Zolotobrid Aquaresurs SE
+REGISTRATION NUMBER : 31590764
+JURISDICTION        : Ukraine
+LEGAL FORM          : SE
+PRINCIPAL ACTIVITY  : water
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Anzhelika Zhuravel — Chief Executive Officer, appointed 2023-04-18
+  - Denys Nazarenko — Finance Director, appointed 2023-07-03
+  - Marika Louca — Member of the Supervisory Board, appointed 2024-11-24
+  - Mykola Zhuravel — Chief Executive Officer (ceased), appointed 2017-08-03
+
+SHAREHOLDINGS DISCLOSED
+  - Zoriansky Holding LLC holds 75% (from 2020-06-26)

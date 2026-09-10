@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0254
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Vyshnevyi Tekhservis SE
+DATE        : 2026-01-25
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2025/6444
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Shchedryn Kompresorservis PJSC
+AWARDED SUPPLIER      : Vyshnevyi Tekhservis SE
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 219,000,000
+PROCEDURE             : restricted procedure
+COMMENCEMENT          : 2024-07-20
+SITE                  : Zorepad Gas Compressor Station
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Trypilske Combined Heat and Power Plant, Bereznyi Hydroelectric Plant, Zorepad Gas Compressor Station, Substation 'Vilkhove'.

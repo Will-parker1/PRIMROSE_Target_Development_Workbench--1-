@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0231
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Holubyne Transformer Depot
+DATE        : 2026-02-08
+ORIGIN      : Solomiya Tekhservis SE asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Holubyne Transformer Depot (grid maintenance and transformer depot)
+OPERATOR      : Solomiya Tekhservis SE
+ASSET REF     : Holubyne DEP
+COMMISSIONED  : 1985
+RATED         : 22 000 m3/day
+CRITICALITY   : MEDIUM
+
+EVENT: protection relay maloperation recorded at 17:45. Duration 500 minutes. No load lost.
+
+AFFECTED PLANT:
+  - RTU-Corvid 240 (remote terminal unit), serial RTU70597
+  - TRF-Merlin-110 (power transformer), serial TRF69086
+
+ATTENDANCE: Slobozhanmerezha Turbomash JSC attended under the standing maintenance framework. 
+
+SIGNED: duty engineer, ST

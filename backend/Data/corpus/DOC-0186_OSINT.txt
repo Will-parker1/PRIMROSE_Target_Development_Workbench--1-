@@ -1,0 +1,13 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0186
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — industry mailing list
+DATE        : 2026-01-15
+ORIGIN      : Open sources (industry mailing list)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] anyone know why Struminka Combined Heat and Power Plant was dark most of tuesday? third time this month
+
+[post 2] Kravets spoke at the regional forum, mostly boilerplate about resilience

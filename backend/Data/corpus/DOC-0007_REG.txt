@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0007
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Nyxthorn Capital Partners Ltd
+DATE        : 2025-02-09
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 43713762
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Nyxthorn Capital Partners Ltd
+REGISTRATION NUMBER : 43713762
+JURISDICTION        : British Virgin Islands
+LEGAL FORM          : Ltd
+PRINCIPAL ACTIVITY  : holding
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.
+
+PARTICIPATIONS HELD
+  - 100% of Astrolabe Holdings Ltd

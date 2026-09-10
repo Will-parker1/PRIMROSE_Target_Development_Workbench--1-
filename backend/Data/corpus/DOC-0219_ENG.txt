@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0219
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Ridkodub Hydroelectric Plant
+DATE        : 2025-03-22
+ORIGIN      : Vitrohin Kaskad Power JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Ridkodub Hydroelectric Plant (run-of-river hydroelectric plant)
+OPERATOR      : Vitrohin Kaskad Power JSC
+ASSET REF     : Ridkodub HPP
+COMMISSIONED  : 1997
+RATED         : n/a
+CRITICALITY   : HIGH
+
+EVENT: transformer cooling fan failure recorded at 11:30. Duration 53 minutes. No load lost.
+
+AFFECTED PLANT:
+  - GT-Aurelia 40MW (gas turbine), serial GT93148
+
+ATTENDANCE: Hrushivka Tekhservis JSC attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Verbivske'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Vitrohin Kaskad Power

@@ -1,0 +1,23 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0128
+TYPE        : HUMAN SOURCE REPORT
+TITLE       : Field report — Hrushivka Tekhservis PrJSC
+DATE        : 2026-04-22
+ORIGIN      : Field collection team (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SOURCE GRADE: F6
+REPORT SERIAL: HS/2649
+--------------------------------------------------------------------------------------------
+
+1. (F6) It is understood that Hrushivka Tekhservis PrJSC has undergone a change in
+commercial posture over the reporting period.
+
+2. (F6) Source has met Tetiana Zaporozhets on two occasions. Tetiana O. Zaporozhets is
+described as holding decision authority over procurement and as maintaining contact with
+counterparts outside the group.
+
+4. (F6) Access arrangements at Substation 'Mlynivske' were described as tightened since the
+last quarter. Source has not visited the site personally.
+
+4. (F6) COMMENT: Source reporting on ownership has previously proven partially accurate.
+Treat percentages as indicative only.

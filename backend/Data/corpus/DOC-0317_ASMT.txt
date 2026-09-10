@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0317
+TYPE        : ALL-SOURCE ASSESSMENT
+TITLE       : Operator assessment — Zolotobrid Aquaresurs SE
+DATE        : 2025-09-03
+ORIGIN      : All-source assessment cell (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CONFIDENCE  : LOW
+--------------------------------------------------------------------------------------------
+
+1. Zolotobrid Aquaresurs SE remains the assessed operator of record for its portfolio.
+Reporting over the period is consistent on structure and inconsistent on beneficial
+ownership.
+
+2. Corporate filings place it under Zoriansky Holding LLC. Source reporting has not been
+corroborated by documentary evidence.
+
+3. Gaps: no visibility of subcontractor tiers below the primary framework holder; no
+reliable figure for spares holdings.
+
+SOURCES CONSIDERED: DOC-0250, DOC-0309, DOC-0300, DOC-0214

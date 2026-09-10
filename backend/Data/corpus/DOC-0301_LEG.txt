@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0301
+TYPE        : LEGAL / REGULATORY NOTICE
+TITLE       : Regulatory Penalty — Vitrohin Enerhobud PrJSC
+DATE        : 2025-10-13
+ORIGIN      : Commercial court register (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CASE REF    : CC/2023/430
+--------------------------------------------------------------------------------------------
+
+IN THE MATTER OF Vitrohin Enerhobud PrJSC — REGULATORY PENALTY.
+
+The claimant, Livoberezh Kolii-Prom PrJSC, alleges non-performance of obligations arising
+under a framework agreement dated 2023-05-27. Quantum is pleaded at UAH 157 million.
+
+The respondent is represented by its officers, including Vasyl Marchenko. The tribunal noted
+that questions of ultimate control remain unresolved on the papers before it.
+
+DIRECTIONS: the respondent shall file a defence within 28 days. Costs reserved.

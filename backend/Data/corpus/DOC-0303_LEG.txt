@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0303
+TYPE        : LEGAL / REGULATORY NOTICE
+TITLE       : Regulatory Penalty — Solomiya Tekhservis SE
+DATE        : 2025-07-10
+ORIGIN      : Commercial court register (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CASE REF    : CC/2023/870
+--------------------------------------------------------------------------------------------
+
+IN THE MATTER OF Solomiya Tekhservis SE — REGULATORY PENALTY.
+
+The claimant, Yasnohir Aquaresurs PJSC, alleges non-performance of obligations arising under
+a framework agreement dated 2021-05-04. Quantum is pleaded at UAH 20 million.
+
+The respondent is represented by its officers, including Serhiy Nazarenko. The tribunal
+noted that questions of ultimate control remain unresolved on the papers before it.
+
+DIRECTIONS: the respondent shall file a defence within 28 days. Costs reserved.

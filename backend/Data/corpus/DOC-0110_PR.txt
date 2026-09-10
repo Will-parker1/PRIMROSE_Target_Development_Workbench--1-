@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0110
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Yasnohir Aquaresurs PJSC announces network modernisation
+DATE        : 2025-04-09
+ORIGIN      : Yasnohir Aquaresurs PJSC corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Yasnohir Aquaresurs PJSC today announced a programme of network modernisation across its
+regional portfolio.
+
+The programme covers Livoberezhne Water Treatment Works, Medove Water Treatment Works,
+Halytske Pumping Station. Commissioning dates have not been published.
+
+"Continuity of supply is the measure that matters," said Denys Savchuk, Chief Executive
+Officer of YA.
+
+Media enquiries: press office, YA.

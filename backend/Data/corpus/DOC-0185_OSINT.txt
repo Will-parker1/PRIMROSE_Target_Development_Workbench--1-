@@ -1,0 +1,17 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0185
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — video platform description
+DATE        : 2025-05-14
+ORIGIN      : Open sources (video platform description)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] Radchenko spoke at the regional forum, mostly boilerplate about resilience
+
+[post 2] congrats to Iryna Pylypenko on the new role, well deserved
+
+[post 3] heard Chornokrai Zaliznychservis lost a contract. no source, just what a friend said
+
+[post 4] they finally fixed the fence at Substation 'Dubove' lol

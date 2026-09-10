@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0154
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Rusanivka Transservice SE / Karpatvuzol Turbomash PrJSC
+DATE        : 2025-07-05
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/37135
+--------------------------------------------------------------------------------------------
+
+// 2025-07-05T0326Z //
+
+CORRELATED TRAFFIC: Rusanivka Transservice SE <-> Karpatvuzol Turbomash PrJSC
+
+Volume: 13 sessions over 13 days.
+
+Metadata only. Pattern consistent with a routine commercial relationship between Rusanivka Transservice and KT.
+
+Selector attributed with MODERATE confidence to Svitlana Hrytsenko. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

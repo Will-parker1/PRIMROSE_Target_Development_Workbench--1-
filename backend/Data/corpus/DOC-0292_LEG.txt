@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0292
+TYPE        : LEGAL / REGULATORY NOTICE
+TITLE       : Insolvency Petition — Sivershyna Kompresorservis JSC
+DATE        : 2025-11-05
+ORIGIN      : Commercial court register (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CASE REF    : CC/2023/135
+--------------------------------------------------------------------------------------------
+
+IN THE MATTER OF Sivershyna Kompresorservis JSC — INSOLVENCY PETITION.
+
+The claimant, Zolotobrid Teploenerho PrJSC, alleges non-performance of obligations arising
+under a framework agreement dated 2024-06-24. Quantum is pleaded at UAH 369 million.
+
+The respondent is represented by its officers, including Vasyl Kalynychenko. The tribunal
+noted that questions of ultimate control remain unresolved on the papers before it.
+
+DIRECTIONS: the respondent shall file a defence within 28 days. Costs reserved.

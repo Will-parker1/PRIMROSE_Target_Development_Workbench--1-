@@ -1,0 +1,16 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0119
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Nadberezh Enerhomerezha PJSC announces winter readiness
+DATE        : 2024-10-30
+ORIGIN      : Nadberezh Enerhomerezha PJSC corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Nadberezh Enerhomerezha PJSC today announced a programme of winter readiness across its
+regional portfolio.
+
+"Continuity of supply is the measure that matters," said Iryna Pylypenko, Chief Executive
+Officer of NE.
+
+Media enquiries: press office, Nadberezh Enerhomerezha PJSC.

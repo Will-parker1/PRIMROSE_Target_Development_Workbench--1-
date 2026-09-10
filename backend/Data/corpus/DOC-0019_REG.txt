@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0019
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Skhidkontur Enerhoheneratsiya SE
+DATE        : 2025-07-13
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 44286488
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Skhidkontur Enerhoheneratsiya SE
+REGISTRATION NUMBER : 44286488
+JURISDICTION        : Ukraine
+LEGAL FORM          : SE
+PRINCIPAL ACTIVITY  : generation
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Bohdan Shevchuk — Chief Executive Officer, appointed 2021-01-04
+  - Marta Kravets — Member of the Supervisory Board, appointed 2020-02-14
+  - Yuriy Levchenko — Member of the Supervisory Board, appointed 2021-05-31
+  - Ihor Savchuk — Member of the Supervisory Board, appointed 2024-08-20
+
+SHAREHOLDINGS DISCLOSED
+  - Verkhovyna Industrial Group PJSC holds 60% (from 2021-04-25)

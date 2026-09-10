@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0157
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Kruhliak Enerhoheneratsiya JSC / Vitrohin Lohistyka SE
+DATE        : 2024-01-31
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/61938
+--------------------------------------------------------------------------------------------
+
+// 2024-01-31T0849Z //
+
+CORRELATED TRAFFIC: Kruhliak Enerhoheneratsiya JSC <-> Vitrohin Lohistyka SE
+
+Volume: 29 sessions over 3 days.
+
+Partial content recovered. Discussion of scheduling and delivery windows referencing KE. No technical detail recovered.
+
+Selector attributed with MODERATE confidence to Serhiy Yeremenko. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

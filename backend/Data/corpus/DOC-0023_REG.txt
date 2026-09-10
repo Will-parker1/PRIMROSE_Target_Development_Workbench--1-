@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0023
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Karpatvuzol Prombudmontazh SE
+DATE        : 2025-10-04
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 44217429
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Karpatvuzol Prombudmontazh SE
+REGISTRATION NUMBER : 44217429
+JURISDICTION        : Ukraine
+LEGAL FORM          : SE
+PRINCIPAL ACTIVITY  : engineering
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Oksana Kravets — Chief Executive Officer, appointed 2021-06-20
+  - Nadiya Didenko — Member of the Supervisory Board, appointed 2022-03-03
+  - Roman Ostapchuk — Member of the Supervisory Board, appointed 2024-04-05
+  - Nadia Charalambous — Member of the Supervisory Board, appointed 2022-04-10
+
+SHAREHOLDINGS DISCLOSED
+  - Verkhovyna Industrial Group PJSC holds 51% (from 2020-06-03)

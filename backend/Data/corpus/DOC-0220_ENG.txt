@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0220
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Krynychne Gas Compressor Station
+DATE        : 2025-02-28
+ORIGIN      : Sivershyna Kompresorservis JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Krynychne Gas Compressor Station (gas compressor station)
+OPERATOR      : Sivershyna Kompresorservis JSC
+ASSET REF     : Krynychne CS
+COMMISSIONED  : 2015
+RATED         : 18 MW
+CRITICALITY   : MEDIUM
+
+EVENT: unplanned pump trip on low suction pressure recorded at 22:56. Duration 548 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - GT-Aurelia 40MW (gas turbine), serial GT72918
+  - SCADA Halcyon 7 (SCADA platform), serial SCA64007
+
+ATTENDANCE: Hrushivka Tekhservis PrJSC attended under the standing maintenance framework. Secondary support from Vyshnevyi Tekhservis SE.
+
+SIGNED: duty engineer, Sivershyna Kompresorservis JSC

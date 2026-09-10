@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0061
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Palewater Assets (Ukraine) LLC
+DATE        : 2024-12-04
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 41401219
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Palewater Assets (Ukraine) LLC
+REGISTRATION NUMBER : 41401219
+JURISDICTION        : Ukraine
+LEGAL FORM          : LLC
+PRINCIPAL ACTIVITY  : holding
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - Sarnovo Trade AG holds 100% (from 2023-09-15)
+
+PARTICIPATIONS HELD
+  - 34% of Kruhliak Enerhoheneratsiya JSC

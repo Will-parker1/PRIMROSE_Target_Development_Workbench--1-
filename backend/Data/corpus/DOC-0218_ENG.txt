@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0218
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Bystrytske Hydroelectric Plant
+DATE        : 2024-01-19
+ORIGIN      : Kruhliak Enerhoheneratsiya JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Bystrytske Hydroelectric Plant (run-of-river hydroelectric plant)
+OPERATOR      : Kruhliak Enerhoheneratsiya JSC
+ASSET REF     : Bystrytske HPP
+COMMISSIONED  : 1973
+RATED         : n/a
+CRITICALITY   : MEDIUM
+
+EVENT: unplanned pump trip on low suction pressure recorded at 19:12. Duration 420 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - GT-Aurelia 40MW (gas turbine), serial GT95063
+
+ATTENDANCE: Vitrohin Enerhobud PrJSC attended under the standing maintenance framework. Secondary support from Trypilsk Transservice LLC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Mlynivske'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, KE

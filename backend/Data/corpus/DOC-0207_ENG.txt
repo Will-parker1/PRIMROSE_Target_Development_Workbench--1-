@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0207
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Kryva Balka Data Centre
+DATE        : 2026-05-24
+ORIGIN      : Yasnohir Optomerezha PrJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Kryva Balka Data Centre (tier-2 colocation data centre)
+OPERATOR      : Yasnohir Optomerezha PrJSC
+ASSET REF     : Kryva Balka DC
+COMMISSIONED  : 2003
+RATED         : 18 MW
+CRITICALITY   : MEDIUM
+
+EVENT: unplanned pump trip on low suction pressure recorded at 14:55. Duration 324 minutes. No load lost.
+
+AFFECTED PLANT:
+  - RTU-Corvid 240 (remote terminal unit), serial RTU90380
+  - PLC-Basalt X2 (programmable logic controller), serial PLC95693
+
+ATTENDANCE: Karpatvuzol Turbomash PrJSC attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Vilkhove'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, YO

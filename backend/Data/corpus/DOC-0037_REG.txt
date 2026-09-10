@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0037
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Berehynia Telekomvuzol LLC
+DATE        : 2026-02-03
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 41305989
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Berehynia Telekomvuzol LLC
+REGISTRATION NUMBER : 41305989
+JURISDICTION        : Ukraine
+LEGAL FORM          : LLC
+PRINCIPAL ACTIVITY  : telecom
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Vira Tkachuk — Chief Executive Officer, appointed 2022-07-07
+  - Mykola Sirko — Member of the Supervisory Board, appointed 2022-12-07
+  - Vitaliy Radchenko — Member of the Supervisory Board, appointed 2022-08-27
+  - Ihor Nazarenko — Chief Executive Officer (ceased), appointed 2016-03-20
+
+SHAREHOLDINGS DISCLOSED
+  - Zoriansky Holding LLC holds 60% (from 2020-05-25)

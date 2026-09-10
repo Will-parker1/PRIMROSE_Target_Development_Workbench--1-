@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="codex-preview" content="development">
+  <title>AI Enabled Knowledge Graph</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#mainContent">Skip to content</a>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand-block">
+        <div class="brand-mark" aria-hidden="true">KG</div>
+        <div>
+          <div class="brand-name">AI Enabled</div>
+          <div class="brand-sub">Knowledge Graph</div>
+        </div>
+      </div>
+      <nav class="primary-nav" aria-label="Primary navigation">
+        <button class="nav-item" data-view="schema"><span class="nav-icon">00</span><span>Tasking</span><span class="nav-count" id="schemaNavCount">—</span></button>
+        <button class="nav-item" data-view="sources"><span class="nav-icon">01</span><span>Collect</span></button>
+        <button class="nav-item is-active" data-view="overview"><span class="nav-icon">02</span><span>Overview</span></button>
+        <button class="nav-item" data-view="review"><span class="nav-icon">03</span><span>Review</span><span class="nav-count" id="reviewNavCount">—</span></button>
+        <button class="nav-item" data-view="explore"><span class="nav-icon">04</span><span>Explore</span></button>
+        <button class="nav-item" data-view="ask"><span class="nav-icon">05</span><span>Ask graph</span></button>
+        <button class="nav-item" data-view="target"><span class="nav-icon">06</span><span>Target development insights</span></button>
+        <button class="nav-item" data-view="priorities"><span class="nav-icon">07</span><span>Priorities</span><span class="nav-count" id="priorityNavCount">—</span></button>
+        <button class="nav-item" data-view="methods"><span class="nav-icon">08</span><span>Methods</span><span class="nav-count" id="methodNavCount">—</span></button>
+        <button class="nav-item" data-view="audit"><span class="nav-icon">09</span><span>Audit &amp; status</span></button>
+      </nav>
+      <div class="sidebar-note">
+        <span class="status-dot"></span>
+        <div><strong>Human review</strong><span>Required before projection</span></div>
+      </div>
+    </aside>
+
+    <div class="workspace">
+      <header class="topbar">
+        <button class="menu-button" id="menuButton" aria-label="Toggle navigation" aria-controls="sidebar" aria-expanded="false">☰</button>
+        <button type="button" class="context-block" id="workspaceSwitcher" data-action="open-projects">
+          <span class="eyebrow">Current workspace</span>
+          <strong id="workspaceName">Knowledge graph</strong>
+        </button>
+        <div class="global-search-wrap">
+          <label class="sr-only" for="globalSearch">Search the graph</label>
+          <input id="globalSearch" type="search" placeholder="Search entities and relationships" autocomplete="off">
+          <kbd>Ctrl K</kbd>
+          <div class="search-results" id="searchResults" hidden></div>
+        </div>
+        <div class="service-state" id="serviceState"><span></span>Connecting</div>
+      </header>
+
+      <main id="mainContent" tabindex="-1">
+        <div class="loading-state">
+          <div class="loader"></div>
+          <p>Loading knowledge graph…</p>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <aside class="detail-drawer" id="detailDrawer" aria-label="Item details" aria-hidden="true" inert>
+    <div class="drawer-head">
+      <div><span class="eyebrow">Graph item</span><h2 id="drawerTitle">Details</h2></div>
+      <button class="icon-button" id="closeDrawer" aria-label="Close details">×</button>
+    </div>
+    <div class="drawer-body" id="drawerBody"></div>
+  </aside>
+  <div class="drawer-scrim" id="drawerScrim" hidden></div>
+
+  <dialog id="decisionDialog" class="decision-dialog">
+    <form method="dialog" id="decisionForm">
+      <span class="eyebrow" id="decisionEyebrow">Review decision</span>
+      <h2 id="decisionTitle">Reject candidate</h2>
+      <p id="decisionPrompt">Record a concise reason for the audit trail.</p>
+      <label for="decisionReason">Reason</label>
+      <textarea id="decisionReason" rows="4" maxlength="500" placeholder="Why is this candidate being rejected?"></textarea>
+      <div class="dialog-actions">
+        <button value="cancel" class="button button-quiet">Cancel</button>
+        <button value="confirm" class="button button-danger" id="decisionConfirm">Reject</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="projectDialog" class="decision-dialog">
+    <form id="projectCreateForm">
+      <span class="eyebrow">Projects</span>
+      <h2>Switch or start a project</h2>
+      <p>Each project keeps its own graph, review decisions and jobs. The graph you started with is always available as <strong>Default</strong>.</p>
+      <div class="clean-list" id="projectList"></div>
+      <label for="projectNameInput">New project name</label>
+      <input id="projectNameInput" class="field field-block" type="text" maxlength="120" placeholder="e.g. Q3 shipping investigation" autocomplete="off">
+      <div class="dialog-actions">
+        <button type="button" value="cancel" class="button button-quiet" data-action="close-project-dialog">Close</button>
+        <button type="submit" class="button button-primary">Create project</button>
+      </div>
+    </form>
+  </dialog>
+
+  <div class="toast-stack" id="toastStack" aria-live="polite"></div>
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0010
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Palewater Assets Ltd
+DATE        : 2025-03-12
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 36434419
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Palewater Assets Ltd
+REGISTRATION NUMBER : 36434419
+JURISDICTION        : British Virgin Islands
+LEGAL FORM          : Ltd
+PRINCIPAL ACTIVITY  : holding
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - Calder Vantage S.a r.l. holds 100% (from 2018-09-26)
+
+PARTICIPATIONS HELD
+  - 65% of Zoriansky Holding LLC

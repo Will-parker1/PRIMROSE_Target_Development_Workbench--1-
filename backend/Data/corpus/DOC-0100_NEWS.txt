@@ -1,0 +1,14 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0100
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Regional infrastructure: Nadberezh in focus
+DATE        : 2023-01-24
+ORIGIN      : Kyiv Commercial Wire
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+A supply relationship between Nadberezh Enerhomerezha PJSC and Verkhovyna Teploenerho PJSC
+covering control cabinets has come under scrutiny after delivery delays at two regional
+sites. Chief executive Iryna Pylypenko described the arrangement as consistent with the
+group's stated regional strategy. Nadberezh Enerhomerezha sits within the Verkhovyna
+Industrial Group PJSC structure, according to corporate filings.

@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0151
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Verkhovyna Teploenerho PJSC / Zoriansky Kabelprom PJSC
+DATE        : 2025-10-16
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/63702
+--------------------------------------------------------------------------------------------
+
+// 2025-10-16T0500Z //
+
+CORRELATED TRAFFIC: Verkhovyna Teploenerho PJSC <-> Zoriansky Kabelprom PJSC
+
+Volume: 31 sessions over 15 days.
+
+Partial content recovered. Discussion of scheduling and delivery windows referencing VT. No technical detail recovered.
+
+Selector attributed with MODERATE confidence to Volodymyr Kravets. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

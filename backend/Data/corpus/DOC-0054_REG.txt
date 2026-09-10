@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0054
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Vitrohin Enerhobud PrJSC
+DATE        : 2025-11-06
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 41816465
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Vitrohin Enerhobud PrJSC
+REGISTRATION NUMBER : 41816465
+JURISDICTION        : Ukraine
+LEGAL FORM          : PrJSC
+PRINCIPAL ACTIVITY  : engineering
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Vasyl Marchenko — Chief Executive Officer, appointed 2022-06-13
+  - Denys Hrytsenko — Member of the Supervisory Board, appointed 2024-03-15
+  - Tetiana Danylchenko — Member of the Supervisory Board, appointed 2019-11-15
+  - Marika Louca — Member of the Supervisory Board, appointed 2022-09-20
+  - Vira Tkachuk — Member of the Supervisory Board, appointed 2022-01-09
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.

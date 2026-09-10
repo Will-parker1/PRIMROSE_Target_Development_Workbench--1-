@@ -1,0 +1,20 @@
+services:
+  primrose-backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+      args:
+        PRIMROSE_INSTALL_FULL_REASONING: "false"
+    env_file:
+      - deploy/backend.env
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "127.0.0.1:8080:8080"
+    restart: unless-stopped
+    volumes:
+      - primrose-data:/data
+
+volumes:
+  primrose-data:
+

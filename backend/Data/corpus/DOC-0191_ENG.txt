@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0191
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Substation 'Shchedryn'
+DATE        : 2026-06-06
+ORIGIN      : Pivdenhrebl Hrid Systems LLC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Substation 'Shchedryn' (330/110 kV substation)
+OPERATOR      : Pivdenhrebl Hrid Systems LLC
+ASSET REF     : Shchedryn SS
+COMMISSIONED  : 1989
+RATED         : 22 000 m3/day
+CRITICALITY   : MEDIUM
+
+EVENT: control cabinet water ingress recorded at 13:34. Duration 213 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - TRF-Kestrel-330 (power transformer), serial TRF31021
+
+ATTENDANCE: Zoriansky Kabelprom PJSC attended under the standing maintenance framework. Secondary support from Solomiya Tekhservis SE.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Hrushivske'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, PHS

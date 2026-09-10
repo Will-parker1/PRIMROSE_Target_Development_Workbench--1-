@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0266
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Solomiya Tekhservis SE
+DATE        : 2025-06-16
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2023/2431
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Kalynivsky Vodokanal-Servis PJSC
+AWARDED SUPPLIER      : Solomiya Tekhservis SE
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 175,000,000
+PROCEDURE             : framework call-off
+COMMENCEMENT          : 2021-11-14
+SITE                  : Suhoklen Pumping Station
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Substation 'Ternova Balka', Substation 'Shchedryn', Suhoklen Pumping Station, Kliuchove Transformer Depot.

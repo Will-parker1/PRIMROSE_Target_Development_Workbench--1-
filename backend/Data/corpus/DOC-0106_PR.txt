@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0106
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Livoberezh Hrid Systems JSC announces network modernisation
+DATE        : 2025-10-02
+ORIGIN      : Livoberezh Hrid Systems JSC corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Livoberezh Hrid Systems JSC today announced a programme of network modernisation across its
+regional portfolio.
+
+The programme covers Substation 'Kamianyi Mist', Substation 'Sriblianske', Substation
+'Zorianske', with works scheduled in phases through the coming year.
+
+"Our regional teams have carried an unusual load," said Volodymyr Tymoshuk, Chief Executive
+Officer of LHS.
+
+Equipment will be sourced through Zoriansky Kabelprom PJSC under existing framework terms.
+
+Media enquiries: press office, LHS.

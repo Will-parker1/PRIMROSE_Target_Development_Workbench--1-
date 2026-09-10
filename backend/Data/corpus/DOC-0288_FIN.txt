@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0288
+TYPE        : FINANCIAL FILING EXTRACT
+TITLE       : Financial statement note — Solomiya Tekhservis SE
+DATE        : 2025-11-25
+ORIGIN      : Statutory filing (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+NOTE 14 — RELATED PARTY TRANSACTIONS. Solomiya Tekhservis SE reported revenue of UAH 4500
+million for the period, of which UAH 277 million arose from transactions with entities under
+common control.
+
+The immediate parent is Zoriansky Holding LLC, holding 75%. The directors consider the
+ultimate controlling party to be disclosed in the group accounts, which are not filed
+locally.
+
+AUDITOR EMPHASIS OF MATTER: we draw attention to the concentration of receivables, 62% of
+which are due from a single counterparty. Our opinion is not modified in this respect.

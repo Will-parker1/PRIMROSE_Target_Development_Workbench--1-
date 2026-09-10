@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0280
+TYPE        : FINANCIAL FILING EXTRACT
+TITLE       : Financial statement note — Karpatvuzol Turbomash PrJSC
+DATE        : 2026-01-28
+ORIGIN      : Statutory filing (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+NOTE 14 — RELATED PARTY TRANSACTIONS. Karpatvuzol Turbomash PrJSC reported revenue of UAH
+870 million for the period, of which UAH 331 million arose from transactions with entities
+under common control.
+
+AUDITOR EMPHASIS OF MATTER: we draw attention to the concentration of receivables, 41% of
+which are due from a single counterparty. Our opinion is not modified in this respect.

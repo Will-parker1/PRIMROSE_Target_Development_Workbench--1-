@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0226
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Yavorivske Marshalling Yard
+DATE        : 2024-10-14
+ORIGIN      : Tavriyaenerho Lohistyka LLC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Yavorivske Marshalling Yard (rail freight marshalling yard)
+OPERATOR      : Tavriyaenerho Lohistyka LLC
+ASSET REF     : Yavorivske RJ
+COMMISSIONED  : 2006
+RATED         : 330 kV
+CRITICALITY   : HIGH
+
+EVENT: loss of auxiliary supply recorded at 01:37. Duration 53 minutes. No load lost.
+
+AFFECTED PLANT:
+  - Relay-Vireo 9 (protection relay), serial REL10607
+  - TRF-Merlin-110 (power transformer), serial TRF52708
+
+ATTENDANCE: Zoriansky Kabelprom PJSC attended under the standing maintenance framework. Secondary support from Hrushivka Tekhservis JSC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Shchedryn'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, TL

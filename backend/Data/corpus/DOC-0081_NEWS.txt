@@ -1,0 +1,14 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0081
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Regional infrastructure: Karpatvuzol in focus
+DATE        : 2023-11-26
+ORIGIN      : Grid & Pipeline Digest
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Karpatvuzol Turbomash PrJSC,
+displacing the previous incumbent. Terenivske Transformer Depot is understood to be covered
+under the same multi-year framework. P. Tkachuk, who has led the company since 2022-12-23,
+declined to give a figure for the transaction. The company's assets include Substation
+'Lypove' in Lvivska oblast.

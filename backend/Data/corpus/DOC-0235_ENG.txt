@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0235
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Substation 'Dubove'
+DATE        : 2025-04-30
+ORIGIN      : Vitrohin Enerhomerezha JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Substation 'Dubove' (330/110 kV substation)
+OPERATOR      : Vitrohin Enerhomerezha JSC
+ASSET REF     : Dubove SS
+COMMISSIONED  : 2004
+RATED         : n/a
+CRITICALITY   : HIGH
+
+EVENT: protection relay maloperation recorded at 14:13. Duration 278 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 7 (SCADA platform), serial SCA33095
+
+ATTENDANCE: Zoriansky Kabelprom PJSC attended under the standing maintenance framework. Secondary support from Vyshnevyi Tekhservis SE.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Pisochne'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Vitrohin Enerhomerezha

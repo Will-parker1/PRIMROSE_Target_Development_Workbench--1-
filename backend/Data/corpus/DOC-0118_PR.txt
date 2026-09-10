@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0118
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Zoriansky Kabelprom PJSC announces leadership appointment
+DATE        : 2025-06-28
+ORIGIN      : Zoriansky Kabelprom PJSC corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Zoriansky Kabelprom PJSC today announced a programme of leadership appointment across its
+regional portfolio.
+
+The programme covers Substation 'Shchedryn', Sosnove Gas Compressor Station, Yavorivske
+Marshalling Yard, with works scheduled in phases through the coming year.
+
+"Continuity of supply is the measure that matters," said Oksana Boyko, Chief Executive
+Officer of Zoriansky Kabelprom PJSC.
+
+Equipment will be sourced through Ostrivets Kaskad Power JSC under existing framework terms.
+
+Media enquiries: press office, ZK.

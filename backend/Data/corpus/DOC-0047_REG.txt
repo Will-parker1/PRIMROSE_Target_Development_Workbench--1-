@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0047
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Podilkaskad Vantazh Group PJSC
+DATE        : 2024-11-09
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 38715283
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Podilkaskad Vantazh Group PJSC
+REGISTRATION NUMBER : 38715283
+JURISDICTION        : Ukraine
+LEGAL FORM          : PJSC
+PRINCIPAL ACTIVITY  : logistics
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Larysa Moroz — Chief Executive Officer, appointed 2022-12-15
+  - Svitlana Nazarenko — Finance Director, appointed 2020-08-28
+  - Roman Bondarenko — Member of the Supervisory Board, appointed 2021-03-04
+  - Pavlo Sirko — Member of the Supervisory Board, appointed 2019-09-18
+  - Larysa Tkachuk — Member of the Supervisory Board, appointed 2019-03-30
+  - Volodymyr Moroz — Member of the Supervisory Board, appointed 2023-08-07
+
+SHAREHOLDINGS DISCLOSED
+  - Bilokamin Industrial Group PrJSC holds 100% (from 2019-09-03)

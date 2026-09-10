@@ -1,0 +1,22 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0002
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Halcyon Control Systems Oy
+DATE        : 2026-03-31
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 40197032
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Halcyon Control Systems Oy
+REGISTRATION NUMBER : 40197032
+JURISDICTION        : Switzerland
+LEGAL FORM          : Oy
+PRINCIPAL ACTIVITY  : manufacturing
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.

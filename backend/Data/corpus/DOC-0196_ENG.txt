@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0196
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Zhytnye Hydroelectric Plant
+DATE        : 2026-05-14
+ORIGIN      : Skhidkontur Enerhoheneratsiya SE asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Zhytnye Hydroelectric Plant (run-of-river hydroelectric plant)
+OPERATOR      : Skhidkontur Enerhoheneratsiya SE
+ASSET REF     : Zhytnye HPP
+COMMISSIONED  : 1987
+RATED         : 18 MW
+CRITICALITY   : MEDIUM
+
+EVENT: loss of auxiliary supply recorded at 05:48. Duration 876 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 5 (SCADA platform), serial SCA36980
+
+ATTENDANCE: Slobozhanmerezha Turbomash JSC attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Nadberezhne'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, SE

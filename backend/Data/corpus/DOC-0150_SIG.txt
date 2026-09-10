@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0150
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Bilokamin Tekhservis SE / Solomiya Tekhservis SE
+DATE        : 2024-05-25
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/68406
+--------------------------------------------------------------------------------------------
+
+// 2024-05-25T0240Z //
+
+CORRELATED TRAFFIC: Bilokamin Tekhservis SE <-> Solomiya Tekhservis SE
+
+Volume: 78 sessions over 16 days.
+
+Partial content recovered. Discussion of scheduling and delivery windows referencing Bilokamin Tekhservis. No technical detail recovered.
+
+Selector attributed with MODERATE confidence to Artem Shevchuk. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0197
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Bereznyi Hydroelectric Plant
+DATE        : 2025-12-13
+ORIGIN      : Vitrohin Kaskad Power JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Bereznyi Hydroelectric Plant (run-of-river hydroelectric plant)
+OPERATOR      : Vitrohin Kaskad Power JSC
+ASSET REF     : Bereznyi HPP
+COMMISSIONED  : 1993
+RATED         : 110 MW
+CRITICALITY   : HIGH
+
+EVENT: SCADA telemetry dropout recorded at 06:42. Duration 577 minutes. No load lost.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 5 (SCADA platform), serial SCA17978
+  - GT-Aurelia 40MW (gas turbine), serial GT30634
+
+ATTENDANCE: Vyshnevyi Tekhservis SE attended under the standing maintenance framework. Secondary support from Karpatvuzol Prombudmontazh SE.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Pisochne'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, VKP

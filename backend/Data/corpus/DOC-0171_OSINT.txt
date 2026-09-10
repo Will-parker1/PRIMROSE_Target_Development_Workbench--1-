@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0171
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — public forum
+DATE        : 2025-09-23
+ORIGIN      : Open sources (public forum)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] congrats to Jan-Willem Broekhuis on the new role, well deserved
+
+[post 2] they finally fixed the fence at WTW-Rusaniv lol
+
+[post 3] drove past Solomiyivske PS yesterday, two new transformer units on flatbeds outside

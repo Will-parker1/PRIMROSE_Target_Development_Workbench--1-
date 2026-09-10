@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0018
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Buhrichka Enerhomerezha PrJSC
+DATE        : 2025-04-30
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 41476134
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Buhrichka Enerhomerezha PrJSC
+REGISTRATION NUMBER : 41476134
+JURISDICTION        : Ukraine
+LEGAL FORM          : PrJSC
+PRINCIPAL ACTIVITY  : grid
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Zoriana Didenko — Chief Executive Officer, appointed 2021-10-19
+  - Ruslan Hrytsenko — Finance Director, appointed 2022-07-14
+  - Volodymyr Kovalenko — Member of the Supervisory Board, appointed 2021-03-24
+  - Halyna Radchenko — Member of the Supervisory Board, appointed 2019-08-17
+
+SHAREHOLDINGS DISCLOSED
+  - Verkhovyna Industrial Group PJSC holds 60% (from 2019-07-10)

@@ -1,0 +1,14 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0307
+TYPE        : BENEFICIAL OWNERSHIP FILING
+TITLE       : Beneficial ownership filing — Palewater Assets (Ukraine) LLC
+DATE        : 2024-01-22
+ORIGIN      : Beneficial ownership register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+ENTITY              : Palewater Assets (Ukraine) LLC
+IMMEDIATE OWNER     : Sarnovo Trade AG (100%), registered Switzerland
+NEXT LEVEL OWNER    : Terravent Nominees Ltd (100% of Sarnovo Trade AG), registered Malta
+DECLARED UBO        : withheld — nominee arrangement declared
+NOTE                : the register records no natural person at this level. See separate filing for Terravent Nominees Ltd.

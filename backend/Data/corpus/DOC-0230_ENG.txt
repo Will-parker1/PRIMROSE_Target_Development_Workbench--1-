@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0230
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Ostrivets Transformer Depot
+DATE        : 2025-07-13
+ORIGIN      : Hrushivka Tekhservis JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Ostrivets Transformer Depot (grid maintenance and transformer depot)
+OPERATOR      : Hrushivka Tekhservis JSC
+ASSET REF     : Ostrivets DEP
+COMMISSIONED  : 2014
+RATED         : 110 MW
+CRITICALITY   : HIGH
+
+EVENT: unplanned pump trip on low suction pressure recorded at 00:45. Duration 274 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - TRF-Kestrel-330 (power transformer), serial TRF42788
+  - GT-Aurelia 40MW (gas turbine), serial GT36064
+
+ATTENDANCE: Karpatvuzol Prombudmontazh SE attended under the standing maintenance framework. Secondary support from Tavriyaenerho Lohistyka LLC.
+
+SIGNED: duty engineer, Hrushivka Tekhservis JSC

@@ -1,0 +1,22 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0003
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Corvid Automation GmbH
+DATE        : 2026-03-14
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 44251243
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Corvid Automation GmbH
+REGISTRATION NUMBER : 44251243
+JURISDICTION        : Switzerland
+LEGAL FORM          : GmbH
+PRINCIPAL ACTIVITY  : manufacturing
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.

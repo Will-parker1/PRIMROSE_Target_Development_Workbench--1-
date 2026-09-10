@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0036
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Dniprovenko Optomerezha JSC
+DATE        : 2026-03-31
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 32389699
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Dniprovenko Optomerezha JSC
+REGISTRATION NUMBER : 32389699
+JURISDICTION        : Ukraine
+LEGAL FORM          : JSC
+PRINCIPAL ACTIVITY  : telecom
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Anzhelika Ivanchuk — Chief Executive Officer, appointed 2020-02-29
+  - Sanne de Vries — Member of the Supervisory Board, appointed 2023-07-11
+  - Mykola Verbytskyi — Member of the Supervisory Board, appointed 2024-07-03
+  - Vasyl Kravets — Member of the Supervisory Board, appointed 2023-01-10
+
+SHAREHOLDINGS DISCLOSED
+  - Zoriansky Holding LLC holds 51% (from 2020-02-21)

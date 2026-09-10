@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0245
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Chystovodne Water Treatment Works
+DATE        : 2024-12-17
+ORIGIN      : Yasnohir Aquaresurs PJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Chystovodne Water Treatment Works (municipal water treatment works)
+OPERATOR      : Yasnohir Aquaresurs PJSC
+ASSET REF     : Chystovodne WTW
+COMMISSIONED  : 1980
+RATED         : n/a
+CRITICALITY   : HIGH
+
+EVENT: busbar differential trip recorded at 01:26. Duration 338 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - RTU-Corvid 240 (remote terminal unit), serial RTU19872
+
+ATTENDANCE: Karpatvuzol Prombudmontazh SE attended under the standing maintenance framework. Secondary support from Slobozhanmerezha Turbomash JSC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Ternova Balka'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Yasnohir Aquaresurs

@@ -1,0 +1,32 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0033
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Zoriansky Holding LLC
+DATE        : 2025-12-06
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 38706978
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Zoriansky Holding LLC
+REGISTRATION NUMBER : 38706978
+JURISDICTION        : Ukraine
+LEGAL FORM          : LLC
+PRINCIPAL ACTIVITY  : holding
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Artem Marchenko — Chief Executive Officer, appointed 2020-08-01
+  - Dmytro Kravets — Finance Director, appointed 2022-05-07
+  - Yuriy Lysenko — Member of the Supervisory Board, appointed 2021-03-29
+
+SHAREHOLDINGS DISCLOSED
+  - Palewater Assets Ltd holds 65% (from 2019-01-08)
+
+PARTICIPATIONS HELD
+  - 75% of Kalynivsky Vodokanal-Servis PJSC
+  - 75% of Zolotobrid Aquaresurs SE
+  - 51% of Dniprovenko Optomerezha JSC
+  - 60% of Berehynia Telekomvuzol LLC
+  - 90% of Chornokrai Zaliznychservis SE
+  - 75% of Yasnohir Aquaresurs PJSC

@@ -1,0 +1,13 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0311
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Shift handover note — Zaluzhne Gas Compressor Station
+DATE        : 2025-04-17
+ORIGIN      : Sivershyna Kompresorservis JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE      : Zaluzhne Gas Compressor Station
+HANDOVER  : senior shift engineer Oleksandr Kovalenko (b. 1989, Rivne), employee since 2018.
+
+Kovalenko reports the standby generator was run for 40 minutes on load test with no defects. He notes for the record that correspondence addressed to the chief executive of Livoberezh Hrid Systems JSC — also named Oleksandr Kovalenko — continues to be delivered to this site in error. The two are not related and should not be treated as the same individual.

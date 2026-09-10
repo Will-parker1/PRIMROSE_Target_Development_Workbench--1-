@@ -1,0 +1,32 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0016
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Verkhovyna Industrial Group PJSC
+DATE        : 2024-08-19
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 32874095
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Verkhovyna Industrial Group PJSC
+REGISTRATION NUMBER : 32874095
+JURISDICTION        : Ukraine
+LEGAL FORM          : PJSC
+PRINCIPAL ACTIVITY  : holding
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Ruslan Sirko — Chief Executive Officer, appointed 2022-08-29
+  - Taras Kravets — Finance Director, appointed 2023-06-07
+  - Alina Rudenko — Member of the Supervisory Board, appointed 2020-07-21
+
+SHAREHOLDINGS DISCLOSED
+  - Astrolabe Holdings Ltd holds 75% (from 2019-11-04)
+
+PARTICIPATIONS HELD
+  - 90% of Nadberezh Enerhomerezha PJSC
+  - 60% of Buhrichka Enerhomerezha PrJSC
+  - 60% of Skhidkontur Enerhoheneratsiya SE
+  - 100% of Kruhliak Enerhoheneratsiya JSC
+  - 60% of Vitrohin Kaskad Power JSC
+  - 100% of Pivdenhrebl Hrid Systems LLC

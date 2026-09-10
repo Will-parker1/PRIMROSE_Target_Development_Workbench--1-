@@ -1,0 +1,4 @@
+.env
+manifests/rendered/
+images/*.tar
+images/*.tar.gz

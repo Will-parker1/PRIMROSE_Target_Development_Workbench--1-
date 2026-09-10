@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0049
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Livoberezh Hrid Systems JSC
+DATE        : 2024-01-30
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 38529094
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Livoberezh Hrid Systems JSC
+REGISTRATION NUMBER : 38529094
+JURISDICTION        : Ukraine
+LEGAL FORM          : JSC
+PRINCIPAL ACTIVITY  : grid
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Volodymyr Tymoshuk — Chief Executive Officer, appointed 2021-01-15
+  - Volodymyr Radchenko — Finance Director, appointed 2022-10-20
+  - Yuriy Tymoshuk — Member of the Supervisory Board, appointed 2019-09-12
+  - Oleksandr Kovalenko — Chief Executive Officer, appointed 2022-02-14  [b. 1971, Poltava]
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.

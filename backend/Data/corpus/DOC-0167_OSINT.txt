@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0167
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — video platform description
+DATE        : 2024-06-11
+ORIGIN      : Open sources (video platform description)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] anyone know why Orlivske Pumping Station was dark most of tuesday? third time this month
+
+[post 2] Havryliuk, Oleksandr spoke at the regional forum, mostly boilerplate about resilience
+
+[post 3] Taras Kravets spoke at the regional forum, mostly boilerplate about resilience

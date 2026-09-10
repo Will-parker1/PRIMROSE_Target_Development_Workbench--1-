@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0225
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Orlivske Pumping Station
+DATE        : 2024-07-04
+ORIGIN      : Pivdenhrebl Aquaresurs SE asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Orlivske Pumping Station (district water pumping station)
+OPERATOR      : Pivdenhrebl Aquaresurs SE
+ASSET REF     : Orlivske PS
+COMMISSIONED  : 1986
+RATED         : 330 kV
+CRITICALITY   : MEDIUM
+
+EVENT: control cabinet water ingress recorded at 18:12. Duration 76 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 5 (SCADA platform), serial SCA55828
+
+ATTENDANCE: Vitrohin Lohistyka SE attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Zorianske'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Pivdenhrebl Aquaresurs SE

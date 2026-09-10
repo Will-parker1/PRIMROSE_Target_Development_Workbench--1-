@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0048
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Zaliznyi Kliuch Hrid Systems PrJSC
+DATE        : 2025-02-11
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 44900148
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Zaliznyi Kliuch Hrid Systems PrJSC
+REGISTRATION NUMBER : 44900148
+JURISDICTION        : Ukraine
+LEGAL FORM          : PrJSC
+PRINCIPAL ACTIVITY  : grid
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Vira Didenko — Chief Executive Officer, appointed 2023-06-09
+  - Sofiia Chumak — Finance Director, appointed 2021-01-04
+  - Zoriana Nazarenko — Member of the Supervisory Board, appointed 2024-05-09
+  - Petro Kalynychenko — Member of the Supervisory Board, appointed 2021-11-24
+  - Iryna Kravets — Member of the Supervisory Board, appointed 2019-03-19
+
+SHAREHOLDINGS DISCLOSED
+  - Bilokamin Industrial Group PrJSC holds 75% (from 2019-08-09)

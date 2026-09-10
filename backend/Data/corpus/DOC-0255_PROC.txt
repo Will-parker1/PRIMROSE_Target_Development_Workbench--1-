@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0255
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Solomiya Tekhservis SE
+DATE        : 2024-09-13
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2025/9561
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Pivdenhrebl Hrid Systems LLC
+AWARDED SUPPLIER      : Solomiya Tekhservis SE
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 42,000,000
+PROCEDURE             : open tender
+COMMENCEMENT          : 2023-10-14
+SITE                  : Substation 'Shchedryn'
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Substation 'Ternova Balka', Substation 'Shchedryn', Suhoklen Pumping Station, Kliuchove Transformer Depot.

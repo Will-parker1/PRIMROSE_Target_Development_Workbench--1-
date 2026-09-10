@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0241
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Vyshneve Hydroelectric Plant
+DATE        : 2024-05-21
+ORIGIN      : Skhidkontur Enerhoheneratsiya SE asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Vyshneve Hydroelectric Plant (run-of-river hydroelectric plant)
+OPERATOR      : Skhidkontur Enerhoheneratsiya SE
+ASSET REF     : Vyshneve HPP
+COMMISSIONED  : 1999
+RATED         : 40 MW
+CRITICALITY   : MEDIUM
+
+EVENT: loss of auxiliary supply recorded at 13:52. Duration 766 minutes. No load lost.
+
+AFFECTED PLANT:
+  - Relay-Vireo 9 (protection relay), serial REL56054
+
+ATTENDANCE: Vyshnevyi Tekhservis SE attended under the standing maintenance framework. Secondary support from Hrushivka Tekhservis PrJSC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Dubove'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Skhidkontur Enerhoheneratsiya SE

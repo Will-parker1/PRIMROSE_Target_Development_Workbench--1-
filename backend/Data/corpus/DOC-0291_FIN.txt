@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0291
+TYPE        : FINANCIAL FILING EXTRACT
+TITLE       : Financial statement note — Kruhliak Vodokanal-Servis SE
+DATE        : 2025-01-12
+ORIGIN      : Statutory filing (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+NOTE 14 — RELATED PARTY TRANSACTIONS. Kruhliak Vodokanal-Servis SE reported revenue of UAH
+6514 million for the period, of which UAH 2236 million arose from transactions with entities
+under common control.
+
+AUDITOR EMPHASIS OF MATTER: we draw attention to the concentration of receivables, 55% of
+which are due from a single counterparty. Our opinion is not modified in this respect.

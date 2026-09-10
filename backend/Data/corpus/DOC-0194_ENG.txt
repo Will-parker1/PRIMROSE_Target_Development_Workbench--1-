@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0194
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Trypilske Combined Heat and Power Plant
+DATE        : 2024-10-13
+ORIGIN      : Vitrohin Kaskad Power JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Trypilske Combined Heat and Power Plant (combined heat and power plant)
+OPERATOR      : Vitrohin Kaskad Power JSC
+ASSET REF     : Trypilske CHP
+COMMISSIONED  : 2008
+RATED         : n/a
+CRITICALITY   : MEDIUM
+
+EVENT: protection relay maloperation recorded at 17:25. Duration 266 minutes. No load lost.
+
+AFFECTED PLANT:
+  - TRF-Kestrel-330 (power transformer), serial TRF54503
+
+ATTENDANCE: Tavriyaenerho Lohistyka LLC attended under the standing maintenance framework. Secondary support from Vyshnevyi Tekhservis SE.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Rakytne'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, VKP

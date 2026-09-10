@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0055
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Hrushivka Tekhservis PrJSC
+DATE        : 2025-02-12
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 39369990
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Hrushivka Tekhservis PrJSC
+REGISTRATION NUMBER : 39369990
+JURISDICTION        : Ukraine
+LEGAL FORM          : PrJSC
+PRINCIPAL ACTIVITY  : engineering
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Tetiana Zaporozhets — Chief Executive Officer, appointed 2021-12-21
+  - Andriy Kalynychenko — Finance Director, appointed 2024-05-26
+  - Alina Ivanchuk — Member of the Supervisory Board, appointed 2023-10-15
+  - Larysa Danylchenko — Member of the Supervisory Board, appointed 2023-12-18
+  - Vitaliy Zhuravel — Chief Executive Officer (ceased), appointed 2016-06-08
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.

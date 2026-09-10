@@ -1,0 +1,12 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0076
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Regional infrastructure: Vitrohin in focus
+DATE        : 2025-07-13
+ORIGIN      : Dnipro Business Review
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Vitrohin Enerhomerezha JSC confirmed it remains the operator of Substation 'Ternova Balka',
+following speculation that the concession would be retendered. Chief executive Volodymyr
+Moroz described the arrangement as consistent with the group's stated regional strategy.

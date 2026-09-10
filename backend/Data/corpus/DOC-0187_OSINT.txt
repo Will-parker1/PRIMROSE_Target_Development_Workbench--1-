@@ -1,0 +1,13 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0187
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — public forum
+DATE        : 2025-07-09
+ORIGIN      : Open sources (public forum)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] congrats to Ruslan Hrytsenko on the new role, well deserved
+
+[post 2] congrats to Taras Kravets on the new role, well deserved

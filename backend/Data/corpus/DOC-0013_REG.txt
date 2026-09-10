@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0013
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Brightmarsh Equity Ltd
+DATE        : 2024-03-07
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 40967306
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Brightmarsh Equity Ltd
+REGISTRATION NUMBER : 40967306
+JURISDICTION        : Cyprus
+LEGAL FORM          : Ltd
+PRINCIPAL ACTIVITY  : holding
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.
+
+PARTICIPATIONS HELD
+  - 100% of Okrasan Global Ltd

@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0249
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Slobozhanmerezha Turbomash JSC
+DATE        : 2023-04-28
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2023/3202
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Yasnohir Aquaresurs PJSC
+AWARDED SUPPLIER      : Slobozhanmerezha Turbomash JSC
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 83,000,000
+PROCEDURE             : restricted procedure
+COMMENCEMENT          : 2022-08-04
+SITE                  : Chystovodne Water Treatment Works
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Zhytnye Hydroelectric Plant, Rusaniv Water Treatment Works, Vovche Combined Heat and Power Plant, Bilyi Kamin Fibre Exchange.

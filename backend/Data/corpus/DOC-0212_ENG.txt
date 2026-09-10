@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0212
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Substation 'Vilkhove'
+DATE        : 2024-11-02
+ORIGIN      : Zaliznyi Kliuch Hrid Systems PrJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Substation 'Vilkhove' (330/110 kV substation)
+OPERATOR      : Zaliznyi Kliuch Hrid Systems PrJSC
+ASSET REF     : Vilkhove SS
+COMMISSIONED  : 1978
+RATED         : 110 kV
+CRITICALITY   : MEDIUM
+
+EVENT: control cabinet water ingress recorded at 15:34. Duration 524 minutes. No load lost.
+
+AFFECTED PLANT:
+  - TRF-Kestrel-330 (power transformer), serial TRF46057
+  - SCADA Halcyon 5 (SCADA platform), serial SCA77185
+
+ATTENDANCE: Solomiya Tekhservis SE attended under the standing maintenance framework. Secondary support from Vyshnevyi Tekhservis SE.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Rakytne'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, ZKHS

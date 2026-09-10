@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0155
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Pivdenhrebl Aquaresurs SE / Bilokamin Tekhservis SE
+DATE        : 2025-12-14
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/89882
+--------------------------------------------------------------------------------------------
+
+// 2025-12-14T1319Z //
+
+CORRELATED TRAFFIC: Pivdenhrebl Aquaresurs SE <-> Bilokamin Tekhservis SE
+
+Volume: 61 sessions over 18 days.
+
+Partial content recovered. Discussion of scheduling and delivery windows referencing Pivdenhrebl Aquaresurs SE. No technical detail recovered.
+
+Selector attributed with MODERATE confidence to Ruslan Savchuk. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

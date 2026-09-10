@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0322
+TYPE        : ALL-SOURCE ASSESSMENT
+TITLE       : Operator assessment — Kalynivsky Vodokanal-Servis PJSC
+DATE        : 2026-02-07
+ORIGIN      : All-source assessment cell (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CONFIDENCE  : LOW
+--------------------------------------------------------------------------------------------
+
+1. Kalynivsky Vodokanal-Servis PJSC remains the assessed operator of record for its
+portfolio. Reporting over the period is consistent on structure and inconsistent on
+beneficial ownership.
+
+2. Corporate filings place it under Verkhovyna Industrial Group PJSC. Source reporting has
+not been corroborated by documentary evidence.
+
+3. Gaps: no visibility of subcontractor tiers below the primary framework holder; no
+reliable figure for spares holdings.
+
+SOURCES CONSIDERED: DOC-0300, DOC-0266, DOC-0225, DOC-0099

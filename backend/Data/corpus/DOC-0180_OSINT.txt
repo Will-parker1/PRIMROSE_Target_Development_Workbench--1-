@@ -1,0 +1,17 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0180
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — regional news comments
+DATE        : 2026-04-03
+ORIGIN      : Open sources (regional news comments)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] congrats to Ihor Didenko on the new role, well deserved
+
+[post 2] congrats to Tomas Reinholt on the new role, well deserved
+
+[post 3] congrats to Sofiia Chumak on the new role, well deserved
+
+[post 4] Aristidou spoke at the regional forum, mostly boilerplate about resilience

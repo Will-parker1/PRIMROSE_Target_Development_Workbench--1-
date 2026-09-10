@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0223
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Zhuravlyne Water Treatment Works
+DATE        : 2024-09-22
+ORIGIN      : Kalynivsky Vodokanal-Servis PJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Zhuravlyne Water Treatment Works (municipal water treatment works)
+OPERATOR      : Kalynivsky Vodokanal-Servis PJSC
+ASSET REF     : Zhuravlyne WTW
+COMMISSIONED  : 1975
+RATED         : 18 MW
+CRITICALITY   : LOW
+
+EVENT: busbar differential trip recorded at 20:16. Duration 80 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 7 (SCADA platform), serial SCA64975
+  - TRF-Kestrel-330 (power transformer), serial TRF20534
+
+ATTENDANCE: Tavriyaenerho Lohistyka LLC attended under the standing maintenance framework. Secondary support from Podilkaskad Vantazh Group PJSC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Zorianske'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Kalynivsky Vodokanal-Servis

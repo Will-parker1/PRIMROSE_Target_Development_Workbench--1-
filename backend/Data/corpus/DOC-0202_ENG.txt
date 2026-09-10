@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0202
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Solomiyivske Pumping Station
+DATE        : 2026-06-11
+ORIGIN      : Kalynivsky Vodokanal-Servis PJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Solomiyivske Pumping Station (district water pumping station)
+OPERATOR      : Kalynivsky Vodokanal-Servis PJSC
+ASSET REF     : Solomiyivske PS
+COMMISSIONED  : 1973
+RATED         : 330 kV
+CRITICALITY   : HIGH
+
+EVENT: protection relay maloperation recorded at 22:09. Duration 220 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 5 (SCADA platform), serial SCA46442
+  - SCADA Halcyon 7 (SCADA platform), serial SCA39994
+
+ATTENDANCE: Karpatvuzol Prombudmontazh SE attended under the standing maintenance framework. Secondary support from Hrushivka Tekhservis JSC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Nadberezhne'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Kalynivsky Vodokanal-Servis

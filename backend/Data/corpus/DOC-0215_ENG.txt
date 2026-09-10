@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0215
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Pryberezhne Combined Heat and Power Plant
+DATE        : 2025-06-13
+ORIGIN      : Ostrivets Kaskad Power JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Pryberezhne Combined Heat and Power Plant (combined heat and power plant)
+OPERATOR      : Ostrivets Kaskad Power JSC
+ASSET REF     : Pryberezhne CHP
+COMMISSIONED  : 2013
+RATED         : 110 MW
+CRITICALITY   : MEDIUM
+
+EVENT: SCADA telemetry dropout recorded at 20:01. Duration 28 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - GT-Aurelia 40MW (gas turbine), serial GT10493
+
+ATTENDANCE: Solomiya Tekhservis SE attended under the standing maintenance framework. Secondary support from Bilokamin Tekhservis SE.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Dubove'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, OKP

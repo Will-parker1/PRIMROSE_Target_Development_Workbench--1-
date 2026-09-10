@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0309
+TYPE        : ALL-SOURCE ASSESSMENT
+TITLE       : Contractor concentration in HIGH-criticality maintenance
+DATE        : 2026-01-19
+ORIGIN      : All-source assessment cell (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CONFIDENCE  : MODERATE
+--------------------------------------------------------------------------------------------
+
+1. Karpatvuzol Prombudmontazh SE now holds sole-source maintenance frameworks at 7 sites
+assessed as HIGH criticality, spanning several oblasts. The awards were made under a
+technical exclusivity justification.
+
+2. Karpatvuzol Prombudmontazh does not manufacture the plant it maintains. Transformer cores
+and bushings are procured from a single OEM, Sarnovo Elektrotechnik AG, on sole-source
+terms.
+
+3. The effect is a two-link chain in which a disruption at either the contractor or the OEM
+would degrade restoration times at all 7 sites simultaneously. Affected sites include
+Substation 'Hrushivske', Bereznyi Hydroelectric Plant, Zaluzhne Gas Compressor Station,
+Livoberezhne Water Treatment Works, Solomiyivske Pumping Station.
+
+4. CONFIDENCE: MODERATE. Based on award notices and filings; no source reporting on OEM
+production capacity.

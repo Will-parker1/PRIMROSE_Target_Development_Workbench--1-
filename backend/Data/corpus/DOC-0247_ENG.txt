@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0247
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Vyrivske Pumping Station
+DATE        : 2024-02-12
+ORIGIN      : Kruhliak Vodokanal-Servis SE asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Vyrivske Pumping Station (district water pumping station)
+OPERATOR      : Kruhliak Vodokanal-Servis SE
+ASSET REF     : Vyrivske PS
+COMMISSIONED  : 1969
+RATED         : 330 kV
+CRITICALITY   : HIGH
+
+EVENT: control cabinet water ingress recorded at 11:10. Duration 732 minutes. No load lost.
+
+AFFECTED PLANT:
+  - Relay-Vireo 9 (protection relay), serial REL47766
+  - PLC-Basalt X2 (programmable logic controller), serial PLC74825
+
+ATTENDANCE: Trypilsk Transservice LLC attended under the standing maintenance framework. Secondary support from Podilkaskad Vantazh Group PJSC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Mlynivske'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Kruhliak Vodokanal-Servis

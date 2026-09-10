@@ -1,0 +1,13 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0093
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Verkhovyna deal draws attention in regional utilities
+DATE        : 2026-06-15
+ORIGIN      : Energy Herald Weekly
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Verkhovyna Industrial Group PJSC has confirmed that it holds a 100% interest in Pivdenhrebl
+Hrid Systems LLC, a position the company says it built up over the preceding eighteen
+months. Analysts had previously assumed a smaller holding. Chief executive Ruslan Sirko
+described the arrangement as consistent with the group's stated regional strategy.

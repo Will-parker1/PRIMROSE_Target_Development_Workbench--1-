@@ -1,0 +1,22 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0062
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Kalynivsky Enerhobud LLC
+DATE        : 2025-08-27
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 38104772
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Kalynivsky Enerhobud LLC
+REGISTRATION NUMBER : 38104772
+JURISDICTION        : Ukraine
+LEGAL FORM          : LLC
+PRINCIPAL ACTIVITY  : engineering
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Svitlana Tkachuk — Chief Executive Officer, appointed 2020-03-01
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.

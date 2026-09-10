@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0039
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Yasnohir Aquaresurs PJSC
+DATE        : 2025-07-29
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 38291209
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Yasnohir Aquaresurs PJSC
+REGISTRATION NUMBER : 38291209
+JURISDICTION        : Ukraine
+LEGAL FORM          : PJSC
+PRINCIPAL ACTIVITY  : water
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Denys Savchuk — Chief Executive Officer, appointed 2021-05-11
+  - Vasyl Zubko — Finance Director, appointed 2022-07-01
+  - Vasyl Melnyk — Member of the Supervisory Board, appointed 2020-05-26
+  - Liudmyla Sirko — Member of the Supervisory Board, appointed 2023-10-16
+  - Kateryna Ostapchuk — Member of the Supervisory Board, appointed 2020-01-04
+
+SHAREHOLDINGS DISCLOSED
+  - Zoriansky Holding LLC holds 75% (from 2021-06-12)

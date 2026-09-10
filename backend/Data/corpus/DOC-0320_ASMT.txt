@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0320
+TYPE        : ALL-SOURCE ASSESSMENT
+TITLE       : Operator assessment — Dniprovenko Optomerezha JSC
+DATE        : 2025-07-11
+ORIGIN      : All-source assessment cell (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+CONFIDENCE  : LOW
+--------------------------------------------------------------------------------------------
+
+1. Dniprovenko Optomerezha JSC remains the assessed operator of record for its portfolio.
+Reporting over the period is consistent on structure and inconsistent on beneficial
+ownership.
+
+2. Corporate filings place it under Zoriansky Holding LLC. Source reporting has not been
+corroborated by documentary evidence.
+
+3. Gaps: no visibility of subcontractor tiers below the primary framework holder; no
+reliable figure for spares holdings.
+
+SOURCES CONSIDERED: DOC-0252, DOC-0150, DOC-0036, DOC-0045

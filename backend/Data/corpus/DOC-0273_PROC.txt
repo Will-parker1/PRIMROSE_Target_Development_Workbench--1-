@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0273
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Zoriansky Kabelprom PJSC
+DATE        : 2025-12-26
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2024/1453
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Vitrohin Enerhomerezha JSC
+AWARDED SUPPLIER      : Zoriansky Kabelprom PJSC
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 138,000,000
+PROCEDURE             : framework call-off
+COMMENCEMENT          : 2024-12-04
+SITE                  : Substation 'Dubove'
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Substation 'Shchedryn', Sosnove Gas Compressor Station, Yavorivske Marshalling Yard, Substation 'Nadberezhne'.

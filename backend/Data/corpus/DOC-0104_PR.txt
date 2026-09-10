@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0104
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Dniprovenko Optomerezha JSC announces winter readiness
+DATE        : 2025-01-12
+ORIGIN      : Dniprovenko Optomerezha JSC corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Dniprovenko Optomerezha JSC today announced a programme of winter readiness across its
+regional portfolio.
+
+The programme covers Bilyi Kamin Fibre Exchange, Kruhliak Data Centre, with works scheduled
+in phases through the coming year.
+
+"Our regional teams have carried an unusual load," said Anzhelika Ivanchuk, Chief Executive
+Officer of DO.
+
+Media enquiries: press office, Dniprovenko Optomerezha JSC.

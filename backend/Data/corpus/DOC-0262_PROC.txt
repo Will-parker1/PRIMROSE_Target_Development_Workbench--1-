@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0262
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Podilkaskad Vantazh Group PJSC
+DATE        : 2023-11-28
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2025/9108
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Kruhliak Vodokanal-Servis SE
+AWARDED SUPPLIER      : Podilkaskad Vantazh Group PJSC
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 236,000,000
+PROCEDURE             : open tender
+COMMENCEMENT          : 2023-11-27
+SITE                  : Vyrivske Pumping Station
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Vitrohin Combined Heat and Power Plant, Rusaniv Water Treatment Works, Malynivske Fibre Exchange, Zhuravlyne Water Treatment Works.

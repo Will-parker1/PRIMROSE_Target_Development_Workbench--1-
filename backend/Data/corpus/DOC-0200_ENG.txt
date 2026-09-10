@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0200
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Livoberezhne Water Treatment Works
+DATE        : 2024-10-12
+ORIGIN      : Yasnohir Aquaresurs PJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Livoberezhne Water Treatment Works (municipal water treatment works)
+OPERATOR      : Yasnohir Aquaresurs PJSC
+ASSET REF     : Livoberezhne WTW
+COMMISSIONED  : 2002
+RATED         : 110 kV
+CRITICALITY   : HIGH
+
+EVENT: control cabinet water ingress recorded at 06:05. Duration 433 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 5 (SCADA platform), serial SCA35355
+
+ATTENDANCE: Karpatvuzol Prombudmontazh SE attended under the standing maintenance framework. Secondary support from Karpatvuzol Prombudmontazh SE.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Pisochne'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Yasnohir Aquaresurs PJSC

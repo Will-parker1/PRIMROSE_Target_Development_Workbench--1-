@@ -1,0 +1,22 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0105
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Kruhliak Enerhoheneratsiya JSC announces supply agreement
+DATE        : 2025-03-04
+ORIGIN      : Kruhliak Enerhoheneratsiya JSC corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Kruhliak Enerhoheneratsiya JSC today announced a programme of supply agreement across its
+regional portfolio.
+
+The programme covers Bystrytske Hydroelectric Plant, Zolotyi Brid Combined Heat and Power
+Plant, with works scheduled in phases through the coming year.
+
+"This is about reducing single points of failure," said Serhiy Yeremenko, Chief Executive
+Officer of KE.
+
+Equipment will be sourced through Shchedryn Kompresorservis PJSC under existing framework
+terms.
+
+Media enquiries: press office, Kruhliak Enerhoheneratsiya JSC.

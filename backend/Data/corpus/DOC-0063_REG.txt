@@ -1,0 +1,22 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0063
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Kalynivskyi Enerho-Bud LLC
+DATE        : 2024-10-14
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 41556903
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Kalynivskyi Enerho-Bud LLC
+REGISTRATION NUMBER : 41556903
+JURISDICTION        : Ukraine
+LEGAL FORM          : LLC
+PRINCIPAL ACTIVITY  : holding
+STATUS              : dormant
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - Terravent Nominees Ltd holds 100% (from 2023-08-20)

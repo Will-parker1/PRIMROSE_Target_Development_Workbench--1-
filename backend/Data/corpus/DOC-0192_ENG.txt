@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0192
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Substation 'Hrushivske'
+DATE        : 2025-03-16
+ORIGIN      : Vitrohin Enerhomerezha JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Substation 'Hrushivske' (330/110 kV substation)
+OPERATOR      : Vitrohin Enerhomerezha JSC
+ASSET REF     : Hrushivske SS
+COMMISSIONED  : 2011
+RATED         : 8 000 m3/day
+CRITICALITY   : HIGH
+
+EVENT: loss of auxiliary supply recorded at 08:32. Duration 373 minutes. No load lost.
+
+AFFECTED PLANT:
+  - TRF-Kestrel-330 (power transformer), serial TRF33499
+
+ATTENDANCE: Karpatvuzol Turbomash PrJSC attended under the standing maintenance framework. Secondary support from Karpatvuzol Prombudmontazh SE.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Verbivske'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, VE

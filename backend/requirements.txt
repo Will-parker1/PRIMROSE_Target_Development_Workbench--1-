@@ -1,0 +1,41 @@
+# Optional extraction, reasoning and legacy visualisation toolchain.
+# The local web application itself runs with the Python 3.11+ standard library.
+#
+# Slim install: GraphRAG answers and PDF extraction need only the first three
+# sections, and pull no machine-learning stack:
+#   pip install langchain-openai langextract pymupdf networkx rapidfuzz
+
+# GraphRAG answering (the default Ask graph mode).
+# Held on the 0.3 line to match langchain-community below; without the ceiling
+# pip pulls langchain-openai 1.x and then backtracks all the way down again.
+langchain-openai>=0.3,<1
+
+# PDF extraction
+langextract>=1.6,<2
+networkx>=3.2,<4
+pymupdf>=1.24,<2
+
+# Fuzzy entity/relationship-type matching used by both query engines
+# (kg_backend/store.py). No transitive dependencies of its own, so it stays
+# outside the ML stack below; store.py degrades to exact/substring matching
+# when it is absent, so it is still not a hard requirement.
+rapidfuzz>=3.9,<4
+
+# Optional reasoning experiments (not required by server.py)
+# spacy must stay at 3.8 or newer. 3.7 has no wheels for recent Python and
+# builds thinc/blis from source, where Cythonisation fails on 3.13+. spaCy 3.8
+# loads the bundled en_core_web_sm 3.7.1 model with a version-mismatch warning.
+# langchain-neo4j is deliberately absent: no module imports it, its <1 releases
+# fail to import on Python 3.14, and its >=0.10 releases need langchain-core >=1,
+# which conflicts with the langchain-community 0.3 API that reasoning_kg uses.
+# reasoning_kg talks to Neo4j through the official driver below.
+langchain-community>=0.3,<1
+langchain-huggingface>=0.3,<1
+neo4j>=5.20,<7
+spacy>=3.8,<4
+pandas>=2.2,<3
+faiss-cpu>=1.8,<2
+sentence-transformers>=3,<6
+
+# Optional standalone graph visualisation
+pyvis>=0.3.2,<1

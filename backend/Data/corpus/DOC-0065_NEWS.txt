@@ -1,0 +1,15 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0065
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Questions over Substation arrangement
+DATE        : 2026-03-09
+ORIGIN      : Grid & Pipeline Digest
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Maintenance responsibility for the site has passed to Vyshnevyi Tekhservis SE, displacing
+the previous incumbent. Substation 'Vilkhove' is understood to be covered under the same
+multi-year framework. Chief executive Mykola Ostapchuk described the arrangement as
+consistent with the group's stated regional strategy. VT sits within the Kruhliak Capital
+JSC structure, according to corporate filings. The company's assets include Trypilske
+Combined Heat and Power Plant in Kharkivska oblast.

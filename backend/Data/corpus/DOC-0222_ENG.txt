@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0222
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Medove Water Treatment Works
+DATE        : 2026-05-20
+ORIGIN      : Yasnohir Aquaresurs PJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Medove Water Treatment Works (municipal water treatment works)
+OPERATOR      : Yasnohir Aquaresurs PJSC
+ASSET REF     : Medove WTW
+COMMISSIONED  : 1992
+RATED         : 8 000 m3/day
+CRITICALITY   : MEDIUM
+
+EVENT: transformer cooling fan failure recorded at 15:21. Duration 139 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - TRF-Kestrel-330 (power transformer), serial TRF82151
+
+ATTENDANCE: Hrushivka Tekhservis PrJSC attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Lypove'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, YA

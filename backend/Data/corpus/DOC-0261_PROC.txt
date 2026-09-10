@@ -1,0 +1,18 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0261
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Vitrohin Enerhomerezha JSC
+DATE        : 2025-04-10
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2025/8445
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Kruhliak Vodokanal-Servis SE
+AWARDED SUPPLIER      : Vitrohin Enerhomerezha JSC
+SUBJECT               : pipeline compressor blades
+VALUE                 : UAH 7,000,000
+PROCEDURE             : open tender
+COMMENCEMENT          : 2022-09-10
+
+NOTES

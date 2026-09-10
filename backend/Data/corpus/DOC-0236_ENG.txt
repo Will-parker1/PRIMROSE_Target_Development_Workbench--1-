@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0236
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Substation 'Pisochne'
+DATE        : 2025-03-30
+ORIGIN      : Vitrohin Enerhomerezha JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Substation 'Pisochne' (330/110 kV substation)
+OPERATOR      : Vitrohin Enerhomerezha JSC
+ASSET REF     : Pisochne SS
+COMMISSIONED  : 1986
+RATED         : 8 000 m3/day
+CRITICALITY   : LOW
+
+EVENT: control cabinet water ingress recorded at 15:55. Duration 755 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 7 (SCADA platform), serial SCA65965
+  - RTU-Corvid 240 (remote terminal unit), serial RTU10303
+
+ATTENDANCE: Vitrohin Lohistyka SE attended under the standing maintenance framework. 
+
+SIGNED: duty engineer, Vitrohin Enerhomerezha JSC

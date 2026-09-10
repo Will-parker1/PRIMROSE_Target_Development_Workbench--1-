@@ -1,0 +1,22 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0112
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Vitrohin Enerhobud PrJSC announces winter readiness
+DATE        : 2024-12-22
+ORIGIN      : Vitrohin Enerhobud PrJSC corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Vitrohin Enerhobud PrJSC today announced a programme of winter readiness across its regional
+portfolio.
+
+The programme covers Substation 'Mlynivske', Zhovtneve Pole Fibre Exchange, Vovche Combined
+Heat and Power Plant. Commissioning dates have not been published.
+
+"Continuity of supply is the measure that matters," said Vasyl Marchenko, Chief Executive
+Officer of VE.
+
+Equipment will be sourced through Skhidkontur Enerhoheneratsiya SE under existing framework
+terms.
+
+Media enquiries: press office, Vitrohin Enerhobud PrJSC.

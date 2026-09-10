@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0240
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Sichove Hydroelectric Plant
+DATE        : 2024-11-15
+ORIGIN      : Zolotobrid Teploenerho PrJSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Sichove Hydroelectric Plant (run-of-river hydroelectric plant)
+OPERATOR      : Zolotobrid Teploenerho PrJSC
+ASSET REF     : Sichove HPP
+COMMISSIONED  : 1993
+RATED         : 18 MW
+CRITICALITY   : MEDIUM
+
+EVENT: transformer cooling fan failure recorded at 12:58. Duration 143 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - TRF-Merlin-110 (power transformer), serial TRF43554
+  - TRF-Kestrel-330 (power transformer), serial TRF14327
+
+ATTENDANCE: Sadovyi Yar Prombudmontazh PJSC attended under the standing maintenance framework. Secondary support from Hrushivka Tekhservis PrJSC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Chornokrai'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Zolotobrid Teploenerho

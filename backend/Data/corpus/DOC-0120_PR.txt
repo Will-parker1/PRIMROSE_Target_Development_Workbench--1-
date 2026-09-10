@@ -1,0 +1,19 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0120
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Chornokrai Zaliznychservis SE announces resilience investment
+DATE        : 2024-08-17
+ORIGIN      : Chornokrai Zaliznychservis SE corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Chornokrai Zaliznychservis SE today announced a programme of resilience investment across
+its regional portfolio.
+
+"Our regional teams have carried an unusual load," said Nataliya Yashchuk, Chief Executive
+Officer of Chornokrai Zaliznychservis SE.
+
+Equipment will be sourced through Kalynivsky Vodokanal-Servis PJSC under existing framework
+terms.
+
+Media enquiries: press office, CZ.

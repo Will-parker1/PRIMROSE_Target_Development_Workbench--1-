@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0201
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Rusaniv Water Treatment Works
+DATE        : 2025-12-11
+ORIGIN      : Zolotobrid Aquaresurs SE asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Rusaniv Water Treatment Works (municipal water treatment works)
+OPERATOR      : Zolotobrid Aquaresurs SE
+ASSET REF     : Rusaniv WTW
+COMMISSIONED  : 1996
+RATED         : 110 MW
+CRITICALITY   : MEDIUM
+
+EVENT: protection relay maloperation recorded at 21:14. Duration 860 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - Relay-Vireo 9 (protection relay), serial REL72467
+  - TRF-Kestrel-330 (power transformer), serial TRF64024
+
+ATTENDANCE: Podilkaskad Vantazh Group PJSC attended under the standing maintenance framework. Secondary support from Slobozhanmerezha Turbomash JSC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Shchedryn'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Zolotobrid Aquaresurs SE

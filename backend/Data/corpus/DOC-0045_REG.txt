@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0045
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Ostrivets Kaskad Power JSC
+DATE        : 2025-09-13
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 34274285
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Ostrivets Kaskad Power JSC
+REGISTRATION NUMBER : 34274285
+JURISDICTION        : Ukraine
+LEGAL FORM          : JSC
+PRINCIPAL ACTIVITY  : generation
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Serhiy Boyko — Chief Executive Officer, appointed 2021-12-01
+  - Tetiana Ivanchuk — Finance Director, appointed 2024-05-03
+  - Serhiy Kushnir — Member of the Supervisory Board, appointed 2019-08-14
+  - Denys Shevchuk — Member of the Supervisory Board, appointed 2019-09-01
+  - Denys Kushnir — Member of the Supervisory Board, appointed 2024-08-21
+
+SHAREHOLDINGS DISCLOSED
+  - Bilokamin Industrial Group PrJSC holds 100% (from 2020-12-06)

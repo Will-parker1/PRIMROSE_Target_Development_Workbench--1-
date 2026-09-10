@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0275
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Karpatvuzol Turbomash PrJSC
+DATE        : 2024-03-09
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2025/9565
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Zolotobrid Aquaresurs SE
+AWARDED SUPPLIER      : Karpatvuzol Turbomash PrJSC
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 54,000,000
+PROCEDURE             : restricted procedure
+COMMENCEMENT          : 2023-10-19
+SITE                  : Kaminne Pumping Station
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Substation 'Lypove', Substation 'Hrushivske', Kryva Balka Data Centre, Terenivske Transformer Depot.

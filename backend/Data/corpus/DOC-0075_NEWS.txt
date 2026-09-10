@@ -1,0 +1,13 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0075
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Regional infrastructure: Zaliznyi in focus
+DATE        : 2026-04-24
+ORIGIN      : Kyiv Commercial Wire
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Zaliznyi Kliuch Hrid Systems PrJSC confirmed it remains the operator of Substation
+'Verbivske', following speculation that the concession would be retendered. Chief executive
+Vira Didenko described the arrangement as consistent with the group's stated regional
+strategy. The company's assets include Substation 'Verbivske' in Chernihivska oblast.

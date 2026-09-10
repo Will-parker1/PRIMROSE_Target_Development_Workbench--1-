@@ -1,0 +1,14 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0101
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Vyshnevyi deal draws attention in regional utilities
+DATE        : 2025-09-05
+ORIGIN      : Kyiv Commercial Wire
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+A supply relationship between Vyshnevyi Tekhservis SE and Vitrohin Enerhomerezha JSC
+covering control cabinets has come under scrutiny after delivery delays at two regional
+sites. M. Ostapchuk, who has led the company since 2020-12-14, declined to give a figure for
+the transaction. Vyshnevyi Tekhservis SE sits within the Kruhliak Capital JSC structure,
+according to corporate filings.

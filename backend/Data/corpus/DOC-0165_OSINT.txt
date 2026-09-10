@@ -1,0 +1,17 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0165
+TYPE        : OPEN SOURCE COLLECTION
+TITLE       : Open-source collection — professional network
+DATE        : 2025-07-27
+ORIGIN      : Open sources (professional network)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+RELIABILITY : LOW — user-generated content
+--------------------------------------------------------------------------------------------
+
+[post 1] heard Verkhovyna Hazotransport LLC lost a contract. no source, just what a friend said
+
+[post 2] drove past PS-Suhoklen yesterday, two new transformer units on flatbeds outside
+
+[post 3] Ihor Kovalenko spoke at the regional forum, mostly boilerplate about resilience
+
+[post 4] congrats to Vitaliy Havryliuk on the new role, well deserved

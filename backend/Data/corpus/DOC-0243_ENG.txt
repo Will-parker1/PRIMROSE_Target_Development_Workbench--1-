@@ -1,0 +1,24 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0243
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Sivachivske Gas Compressor Station
+DATE        : 2024-06-26
+ORIGIN      : Verkhovyna Hazotransport LLC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Sivachivske Gas Compressor Station (gas compressor station)
+OPERATOR      : Verkhovyna Hazotransport LLC
+ASSET REF     : Sivachivske CS
+COMMISSIONED  : 1975
+RATED         : 110 kV
+CRITICALITY   : MEDIUM
+
+EVENT: SCADA telemetry dropout recorded at 03:31. Duration 203 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 5 (SCADA platform), serial SCA15067
+
+ATTENDANCE: Karpatvuzol Prombudmontazh SE attended under the standing maintenance framework. Secondary support from Sadovyi Yar Prombudmontazh PJSC.
+
+SIGNED: duty engineer, Verkhovyna Hazotransport LLC

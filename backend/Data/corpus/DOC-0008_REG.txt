@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0008
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Meridian Kestrel Trading DMCC
+DATE        : 2024-07-26
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 44394024
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Meridian Kestrel Trading DMCC
+REGISTRATION NUMBER : 44394024
+JURISDICTION        : United Arab Emirates
+LEGAL FORM          : DMCC
+PRINCIPAL ACTIVITY  : holding
+STATUS              : active
+
+OFFICERS OF RECORD
+  - No officers currently filed.
+
+SHAREHOLDINGS DISCLOSED
+  - Rovenna Investments Ltd holds 100% (from 2019-03-16)
+
+PARTICIPATIONS HELD
+  - 75% of Kruhliak Capital JSC

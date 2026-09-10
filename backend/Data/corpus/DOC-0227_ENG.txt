@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0227
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Bilyi Kamin Fibre Exchange
+DATE        : 2025-11-18
+ORIGIN      : Dniprovenko Optomerezha JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Bilyi Kamin Fibre Exchange (regional fibre exchange)
+OPERATOR      : Dniprovenko Optomerezha JSC
+ASSET REF     : Bilyi Kamin TX
+COMMISSIONED  : 1992
+RATED         : 40 MW
+CRITICALITY   : HIGH
+
+EVENT: SCADA telemetry dropout recorded at 07:56. Duration 408 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - RTU-Corvid 240 (remote terminal unit), serial RTU69133
+
+ATTENDANCE: Slobozhanmerezha Turbomash JSC attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Ternova Balka'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, DO

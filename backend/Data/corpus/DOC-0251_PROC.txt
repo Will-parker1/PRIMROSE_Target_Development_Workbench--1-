@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0251
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Hrushivka Tekhservis JSC
+DATE        : 2026-02-23
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2024/4962
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Tavriyaenerho Lohistyka LLC
+AWARDED SUPPLIER      : Hrushivka Tekhservis JSC
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 106,000,000
+PROCEDURE             : open tender
+COMMENCEMENT          : 2025-03-29
+SITE                  : Yavorivske Marshalling Yard
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Solomiyivske Pumping Station, Suhoklen Pumping Station, Ridkodub Hydroelectric Plant, Yavorivske Marshalling Yard.

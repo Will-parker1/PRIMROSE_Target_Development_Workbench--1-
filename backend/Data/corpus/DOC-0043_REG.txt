@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0043
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Shchedryn Kompresorservis PJSC
+DATE        : 2025-03-21
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 34200684
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Shchedryn Kompresorservis PJSC
+REGISTRATION NUMBER : 34200684
+JURISDICTION        : Ukraine
+LEGAL FORM          : PJSC
+PRINCIPAL ACTIVITY  : gas
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Volodymyr Shevchuk — Chief Executive Officer, appointed 2023-04-13
+  - Oleksandr Havryliuk — Finance Director, appointed 2024-03-21
+  - Roman Shevchuk — Member of the Supervisory Board, appointed 2021-07-02
+  - Liudmyla Ivanchuk — Member of the Supervisory Board, appointed 2024-02-13
+  - Vitaliy Danylchenko — Member of the Supervisory Board, appointed 2023-12-19
+
+SHAREHOLDINGS DISCLOSED
+  - Bilokamin Industrial Group PrJSC holds 51% (from 2019-02-10)

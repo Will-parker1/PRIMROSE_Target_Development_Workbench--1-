@@ -1,0 +1,12 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0085
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Questions over Solomiya arrangement
+DATE        : 2023-05-22
+ORIGIN      : Dnipro Business Review
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Sarnovo Elektrotechnik AG will continue to supply water treatment reagents to Solomiya
+Tekhservis SE under a framework agreement renewed this quarter. The arrangement dates back
+several years.

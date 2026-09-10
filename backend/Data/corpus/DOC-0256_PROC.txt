@@ -1,0 +1,20 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0256
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Kalynivsky Enerhobud LLC
+DATE        : 2024-08-26
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2025/9975
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Livoberezh Hrid Systems JSC
+AWARDED SUPPLIER      : Kalynivsky Enerhobud LLC
+SUBJECT               : maintenance and repair services
+VALUE                 : UAH 18,000,000
+PROCEDURE             : framework call-off
+COMMENCEMENT          : 2022-05-01
+SITE                  : Substation 'Zorianske'
+
+NOTES
+  - The supplier holds concurrent frameworks covering: Substation 'Zorianske', Chystovodne Water Treatment Works, Kruhliak Data Centre.

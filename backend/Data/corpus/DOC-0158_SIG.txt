@@ -1,0 +1,21 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0158
+TYPE        : TECHNICAL COLLECTION SUMMARY
+TITLE       : Traffic summary — Kruhliak Enerhoheneratsiya JSC / Pivdenhrebl Aquaresurs SE
+DATE        : 2024-12-17
+ORIGIN      : Technical collection (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+SERIAL      : TC/98244
+--------------------------------------------------------------------------------------------
+
+// 2024-12-17T0323Z //
+
+CORRELATED TRAFFIC: Kruhliak Enerhoheneratsiya JSC <-> Pivdenhrebl Aquaresurs SE
+
+Volume: 76 sessions over 3 days.
+
+Partial content recovered. Discussion of scheduling and delivery windows referencing Kruhliak Enerhoheneratsiya. No technical detail recovered.
+
+Selector attributed with MODERATE confidence to Serhiy Yeremenko. Attribution based on two self-identifications.
+
+CONFIDENCE: MODERATE. Not for onward attribution.

@@ -1,0 +1,14 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0094
+TYPE        : TRADE PRESS ARTICLE
+TITLE       : Questions over Rusaniv arrangement
+DATE        : 2023-09-29
+ORIGIN      : Eastern Utilities Journal
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Zolotobrid Aquaresurs SE confirmed it remains the operator of Rusaniv Water Treatment Works,
+following speculation that the concession would be retendered. Chief executive Anzhelika
+Zhuravel described the arrangement as consistent with the group's stated regional strategy.
+Zolotobrid Aquaresurs sits within the Zoriansky Holding LLC structure, according to
+corporate filings. The company's assets include WTW-Rusaniv in Ivano-Frankivska oblast.

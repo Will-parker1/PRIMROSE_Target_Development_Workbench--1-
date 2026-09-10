@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0213
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Substation 'Rakytne'
+DATE        : 2026-04-04
+ORIGIN      : Vitrohin Enerhomerezha JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Substation 'Rakytne' (330/110 kV substation)
+OPERATOR      : Vitrohin Enerhomerezha JSC
+ASSET REF     : Rakytne SS
+COMMISSIONED  : 2006
+RATED         : 40 MW
+CRITICALITY   : LOW
+
+EVENT: SCADA telemetry dropout recorded at 01:44. Duration 552 minutes. Partial load transfer to adjacent feeder.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 7 (SCADA platform), serial SCA89718
+
+ATTENDANCE: Rusanivka Transservice SE attended under the standing maintenance framework. 
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Sriblianske'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, VE

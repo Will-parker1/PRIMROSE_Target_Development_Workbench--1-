@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0058
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Livoberezh Kolii-Prom PrJSC
+DATE        : 2024-07-21
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 32109398
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Livoberezh Kolii-Prom PrJSC
+REGISTRATION NUMBER : 32109398
+JURISDICTION        : Ukraine
+LEGAL FORM          : PrJSC
+PRINCIPAL ACTIVITY  : rail
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Roman Levchenko — Chief Executive Officer, appointed 2021-12-23
+  - Halyna Didenko — Finance Director, appointed 2021-07-29
+  - Roman Melnyk — Member of the Supervisory Board, appointed 2019-09-02
+  - Oksana Lysenko — Member of the Supervisory Board, appointed 2024-06-03
+
+SHAREHOLDINGS DISCLOSED
+  - No shareholder above the 10% disclosure threshold.

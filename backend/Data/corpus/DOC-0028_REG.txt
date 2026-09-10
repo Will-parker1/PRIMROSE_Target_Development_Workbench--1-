@@ -1,0 +1,26 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0028
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Bilokamin Tekhservis SE
+DATE        : 2024-06-26
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 32890899
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Bilokamin Tekhservis SE
+REGISTRATION NUMBER : 32890899
+JURISDICTION        : Ukraine
+LEGAL FORM          : SE
+PRINCIPAL ACTIVITY  : engineering
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Artem Shevchuk — Chief Executive Officer, appointed 2021-02-11
+  - Dmytro Didenko — Member of the Supervisory Board, appointed 2021-07-29
+  - Yuliya Nazarenko — Member of the Supervisory Board, appointed 2023-04-28
+  - Oksana Kravets — Member of the Supervisory Board, appointed 2022-02-03
+  - Vasyl Kravets — Member of the Supervisory Board, appointed 2021-07-01
+
+SHAREHOLDINGS DISCLOSED
+  - Kruhliak Capital JSC holds 90% (from 2021-05-25)

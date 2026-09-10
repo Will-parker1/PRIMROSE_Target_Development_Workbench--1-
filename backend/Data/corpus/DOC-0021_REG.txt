@@ -1,0 +1,25 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0021
+TYPE        : CORPORATE REGISTRY EXTRACT
+TITLE       : Registry extract — Vitrohin Kaskad Power JSC
+DATE        : 2024-11-05
+ORIGIN      : Unified State Register (synthetic mirror)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+REG NUMBER  : 36111514
+--------------------------------------------------------------------------------------------
+
+REGISTERED NAME     : Vitrohin Kaskad Power JSC
+REGISTRATION NUMBER : 36111514
+JURISDICTION        : Ukraine
+LEGAL FORM          : JSC
+PRINCIPAL ACTIVITY  : generation
+STATUS              : active
+
+OFFICERS OF RECORD
+  - Denys Zubko — Chief Executive Officer, appointed 2021-08-16
+  - Svitlana Bondarenko — Member of the Supervisory Board, appointed 2023-07-29
+  - Tomas Reinholt — Member of the Supervisory Board, appointed 2021-09-24
+  - Vasyl Sirko — Chief Executive Officer (ceased), appointed 2018-04-04
+
+SHAREHOLDINGS DISCLOSED
+  - Verkhovyna Industrial Group PJSC holds 60% (from 2020-12-08)

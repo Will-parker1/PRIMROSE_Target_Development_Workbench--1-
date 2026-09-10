@@ -1,0 +1,18 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0260
+TYPE        : PROCUREMENT AWARD NOTICE
+TITLE       : Contract award notice — Sivershyna Kompresorservis JSC
+DATE        : 2023-09-23
+ORIGIN      : National Infrastructure Procurement Office (synthetic)
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+NOTICE REF  : NIPO/2025/6708
+--------------------------------------------------------------------------------------------
+
+CONTRACTING AUTHORITY : Rusanivka Transservice SE
+AWARDED SUPPLIER      : Sivershyna Kompresorservis JSC
+SUBJECT               : steel lattice pylon sections
+VALUE                 : UAH 58,000,000
+PROCEDURE             : restricted procedure
+COMMENCEMENT          : 2025-07-15
+
+NOTES

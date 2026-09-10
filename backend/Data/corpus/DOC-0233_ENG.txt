@@ -1,0 +1,27 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0233
+TYPE        : ENGINEERING / OUTAGE LOG
+TITLE       : Maintenance and outage log — Substation 'Nadberezhne'
+DATE        : 2025-11-02
+ORIGIN      : Vitrohin Enerhomerezha JSC asset management
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+SITE          : Substation 'Nadberezhne' (330/110 kV substation)
+OPERATOR      : Vitrohin Enerhomerezha JSC
+ASSET REF     : Nadberezhne SS
+COMMISSIONED  : 2013
+RATED         : 18 MW
+CRITICALITY   : MEDIUM
+
+EVENT: loss of auxiliary supply recorded at 20:17. Duration 98 minutes. Customer supply interrupted.
+
+AFFECTED PLANT:
+  - SCADA Halcyon 7 (SCADA platform), serial SCA32151
+  - GT-Aurelia 40MW (gas turbine), serial GT40720
+
+ATTENDANCE: Karpatvuzol Prombudmontazh SE attended under the standing maintenance framework. Secondary support from Zoriansky Kabelprom PJSC.
+
+DEPENDENCY NOTE: this site takes supply from Substation 'Chornokrai'; a fault at that location would propagate here.
+
+SIGNED: duty engineer, Vitrohin Enerhomerezha JSC

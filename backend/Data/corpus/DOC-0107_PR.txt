@@ -1,0 +1,22 @@
+[SYNTHETIC CORPUS - FICTIONAL ENTITIES - GENERATED TEST DATA - NOT INTELLIGENCE]
+DOCUMENT ID : DOC-0107
+TYPE        : COMPANY PRESS RELEASE
+TITLE       : Karpatvuzol Turbomash PrJSC announces network modernisation
+DATE        : 2024-11-15
+ORIGIN      : Karpatvuzol Turbomash PrJSC corporate communications
+HANDLING    : SYNTHETIC//TRAINING-CORPUS//TEST-ONLY
+--------------------------------------------------------------------------------------------
+
+Karpatvuzol Turbomash PrJSC today announced a programme of network modernisation across its
+regional portfolio.
+
+The programme covers Substation 'Lypove', Substation 'Hrushivske', Kryva Balka Data Centre.
+Commissioning dates have not been published.
+
+"Continuity of supply is the measure that matters," said Petro Tkachuk, Chief Executive
+Officer of KT.
+
+Equipment will be sourced through Kalynivsky Vodokanal-Servis PJSC under existing framework
+terms.
+
+Media enquiries: press office, Karpatvuzol Turbomash.
